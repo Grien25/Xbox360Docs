@@ -1,0 +1,103 @@
+{
+  "scrape_info": {
+    "total_pages_scraped": 21,
+    "main_pages": 1,
+    "section_pages": 5,
+    "instruction_pages": 15,
+    "total_word_count": 11533,
+    "scrape_completed_at": 1756584859.676464,
+    "wayback_timestamp": "20100423054747"
+  },
+  "pages_by_category": {
+    "main": [
+      {
+        "title": "Microcode (xvs_3_0, xps_3_0)",
+        "word_count": 260
+      }
+    ],
+    "sections": [
+      {
+        "title": "Inline Microcode Assembly in HLSL",
+        "word_count": 397
+      },
+      {
+        "title": "Vertex Fetching in HLSL (xvs_3_0, xps_3_0)",
+        "word_count": 268
+      },
+      {
+        "title": "Texture Fetching in HLSL (xvs_3_0, xps_3_0)",
+        "word_count": 248
+      },
+      {
+        "title": "Swizzling (xvs_3_0, xps_3_0)",
+        "word_count": 784
+      },
+      {
+        "title": "Microcode Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 125
+      }
+    ],
+    "instructions": [
+      {
+        "title": "Fetch Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 418
+      },
+      {
+        "title": "Wayback Machine",
+        "word_count": 756
+      },
+      {
+        "title": "Removed Content",
+        "word_count": 241
+      },
+      {
+        "title": "Wayback Machine",
+        "word_count": 756
+      },
+      {
+        "title": "Wayback Machine",
+        "word_count": 756
+      },
+      {
+        "title": "vfetch (xvs_3_0, xps_3_0)",
+        "word_count": 186
+      },
+      {
+        "title": "ALU Vector Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 607
+      },
+      {
+        "title": "ALU Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 214
+      },
+      {
+        "title": "Wayback Machine",
+        "word_count": 756
+      },
+      {
+        "title": "tfetch1D (xvs_3_0, xps_3_0)",
+        "word_count": 1105
+      },
+      {
+        "title": "tfetch3D (xvs_3_0, xps_3_0)",
+        "word_count": 1163
+      },
+      {
+        "title": "ALU Scalar Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 782
+      },
+      {
+        "title": "Fetch Instructions (xvs_3_0, xps_3_0)",
+        "word_count": 547
+      },
+      {
+        "title": "Wayback Machine",
+        "word_count": 756
+      },
+      {
+        "title": "Removed Content",
+        "word_count": 408
+      }
+    ]
+  }
+}

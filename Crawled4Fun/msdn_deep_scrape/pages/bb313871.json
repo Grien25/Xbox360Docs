@@ -1,0 +1,185 @@
+{
+  "url": "https://web.archive.org/web/20100423054747/http://msdn.microsoft.com/en-us/library/bb313871.aspx",
+  "original_url": "http://msdn.microsoft.com/en-us/library/bb313871.aspx",
+  "title": "Inline Microcode Assembly in HLSL",
+  "status_code": 302,
+  "success": true,
+  "scraped_at": 1756584720.8658402,
+  "category": "section",
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" style=\"--wm-toolbar-height: 67px;\"><head id=\"ctl00_Head1\"><script src=\"//archive.org/includes/athena.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app201.us.archive.org';v.server_ms=410;archive_analytics.send_pageview({});});</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/bundle-playback.js?v=FC38Hc5A\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC\" charset=\"utf-8\"></script>\n<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={\"autoplay\":\"on\",\"unmuteOverlay\":\"hidden\",\"showSwfDownload\":true};</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/ruffle/ruffle.js\"></script>\n<script type=\"text/javascript\">\n    __wm.init(\"https://web.archive.org/web\");\n  __wm.wombat(\"http://msdn.microsoft.com:80/en-us/library/bb313871.aspx\",\"20100423055133\",\"https://web.archive.org/\",\"web\",\"https://web-static.archive.org/_static/\",\n\t      \"1272001893\");\n</script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\">\n<!-- End Wayback Rewrite JS Include -->\n<meta name=\"NormalizedUrl\" content=\"http://msdn.microsoft.com/en-us/library(d=robot)/bb313871(l=en-us,v=XNAGameStudio.31).aspx\"><meta name=\"VotingContextUrl\" content=\"http://msdn.microsoft.com/en-us/library(d=robot)/bb313871(l=en-us,v=XNAGameStudio.31).aspx\"><meta name=\"MN\" content=\"E9E5B39C-10:51:33 PM\"><meta name=\"ms.locale\" content=\"en-us\"><meta name=\"Search.ShortId\" content=\"bb313871\"><meta name=\"MSHKeywordK\" content=\"HLSL, inline microcode assembly\">\n<meta name=\"Search.MSHKeywordK\" content=\"HLSL, inline microcode assembly\">\n<meta name=\"MSHKeywordK\" content=\"microcode, sequencer statements\">\n<meta name=\"Search.MSHKeywordK\" content=\"microcode, sequencer statements\">\n<meta name=\"MSHKeywordK\" content=\"microcode, registers and variables\">\n<meta name=\"Search.MSHKeywordK\" content=\"microcode, registers and variables\">\n<meta name=\"MSHKeywordK\" content=\"microcode, HLSL variable binding\">\n<meta name=\"Search.MSHKeywordK\" content=\"microcode, HLSL variable binding\">\n<meta name=\"MSHAttr\" content=\"AssetID:00b97b50-64da-2f0c-1ab2-d6725d6c9019\">\n<meta name=\"Search.MSHAttr.AssetID\" content=\"00b97b50-64da-2f0c-1ab2-d6725d6c9019\">\n<meta name=\"MSHAttr\" content=\"Locale:en-us\">\n<meta name=\"Search.MSHAttr.Locale\" content=\"en-us\">\n<meta name=\"MSHAttr\" content=\"CommunityContent:1\">\n<meta name=\"Search.MSHAttr.CommunityContent\" content=\"1\">\n<meta name=\"MSHAttr\" content=\"TopicType:kbOrient\">\n<meta name=\"Search.MSHAttr.TopicType\" content=\"kbOrient\">\n<meta name=\"MSHAttr\" content=\"DocSet:XNA\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSet:ExpressLibVS\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"ExpressLibVS\">\n<meta name=\"MSHAttr\" content=\"DocSet:C#\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"C#\">\n<meta name=\"MSHAttr\" content=\"ProjType:LocalProj\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"LocalProj\">\n<meta name=\"MSHAttr\" content=\"ProjType:XNA_31\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"XNA_31\">\n<meta name=\"MSHAttr\" content=\"ProjType:XNA_30\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"XNA_30\">\n<meta name=\"MSHAttr\" content=\"Technology:XNA\">\n<meta name=\"Search.MSHAttr.Technology\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSetTitle:XNA\">\n<meta name=\"Search.MSHAttr.DocSetTitle\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSetRoot:Bb313871\">\n<meta name=\"Search.MSHAttr.DocSetRoot\" content=\"Bb313871\">\n<meta name=\"save\" content=\"history\">\n<meta name=\"Search.save\" content=\"history\">\n<meta name=\"keywords\" content=\"HLSL, inline microcode assembly,microcode, sequencer statements,microcode, registers and variables,microcode, HLSL variable binding\">\n<meta name=\"Search.MSCategory\" content=\"ms310247\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310247MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310249\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310249MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310241\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310241MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa187916\">\n<meta name=\"Search.MSCategoryV\" content=\"aa187916MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa468128\">\n<meta name=\"Search.MSCategoryV\" content=\"aa468128MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"dd253701\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253701XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd253708\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253708XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd253710\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253710XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282526\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282526XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282529\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282529XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"bb313871\">\n<meta name=\"Search.MSCategoryV\" content=\"bb313871XNAGameStudio31\">\n<meta name=\"Search.TocNodeId\" content=\"bb313871\">\n<meta name=\"MSHAttr\" content=\"Rating:0.000\">\n<meta name=\"Search.Rating\" content=\"0\">\n<meta name=\"MSMETANRatingMSMETAV\" content=\"0\">\n<meta name=\"Search.RootTocId\" content=\"ms310241\"><meta name=\"MSHAttr\" content=\"ShippedIn:XNAGameStudio.31\"><meta name=\"Search.ShippedIn\" content=\"XNAGameStudio31\"><meta name=\"Search.GuidIdentifier\" content=\"00b97b50-64da-2f0c-1ab2-d6725d6c9019\"><link rel=\"stylesheet\" type=\"text/css\" href=\"https://web.archive.org/web/20100423055133cs_/http://i3.msdn.microsoft.com/en-us/library/mtps-bn20100413.css?l=en-us&amp;i=library&amp;ct=CollapsibleArea;CrawlerNav;InstrumentedLink;MtDisclaimer;ScriptFreeInstrumentedLink;WikiViewer&amp;clustimg=1\"><title>\n\tInline Microcode Assembly in HLSL\n</title></head>\n<body id=\"ctl00_body1\" dir=\"ltr\"><!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<script>__wm.rw(0);</script>\n<div id=\"wm-ipp-base\" lang=\"en\" style=\"display: block; direction: ltr; height: 67px;\" toolbar-mode=\"auto\">\n</div><div id=\"wm-ipp-print\">The Wayback Machine - https://web.archive.org/web/20100423055133/http://msdn.microsoft.com:80/en-us/library/bb313871.aspx</div>\n<script type=\"text/javascript\">//<![CDATA[\n__wm.bt(750,27,25,2,\"web\",\"http://msdn.microsoft.com/en-us/library/bb313871.aspx\",\"20100423055133\",1996,\"https://web-static.archive.org/_static/\",[\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\",\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\"], false);\n  __wm.rw(1);\n//]]></script>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form name=\"aspnetForm\" method=\"post\" action=\"bb313871.aspx\" id=\"aspnetForm\">\n<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUBMGRk9fo2u6sAqapv5HtNATug6rd+gms=\">\n\n\n<script src=\"https://web.archive.org/web/20100423055133js_/http://i2.msdn.microsoft.com/platform/cjs/extract/compositejscript2.js\" type=\"text/javascript\"></script>\n    \n    <div>\n        \n        <!--starting processing--><div class=\"topic\"><div class=\"majorTitle\">XNA Game Studio 3.1<!----></div><div class=\"title\">Inline Microcode Assembly in HLSL<!----></div><!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div id=\"mainSection\"><div id=\"mainBody\">\n  \n  \n  <p>\n    The <strong>asm</strong> keyword allows Xbox 360 GPU microcode to be inserted (inline) into HLSL functions, as shown here.\n  </p>\n  <pre>float4 FetchPosition( int i )\n{\n  float4 vertexPos;\n  asm {\n    vfetch vertexPos, i, position\n  };\n  return vertexPos;\n}  </pre>\n  <p>The inline microcode starts with <strong>asm{</strong>, followed by one or more microcode statements. It ends with <strong>};</strong>. The trailing semicolon at the end of the microcode block is always required.</p>\n  <p>The <strong>asm</strong> block does not contain a target such as <strong>xvs_3_0</strong> or <strong>xps_3_0</strong>. This allows the same routine to be called from both vertex shaders and pixel shaders. On Xbox 360, the <strong>asm</strong> block supports only <a id=\"ctl00_ContentPlaceHolder1_ctl01\" href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Xbox 360 microcode</a>.</p>\n  <a id=\"ID4ESB\"><!----></a><h1 class=\"heading\">Sequencer Statements</h1><div id=\"ID4ESB1\" class=\"hxnx1\">\n    \n    <ul>\n      <li>\n        <p>No control flow statements are allowed.  Instead, use one or more <strong>asm</strong> blocks with HLSL control flow.</p>\n        <pre>for ( int i = 0; i &lt; 2; i++ )\n{\n  asm {\n  // one or more microcode statements\n  };\n};        </pre>\n      </li>\n    </ul>\n  </div>\n  <a id=\"ID4EEC\"><!----></a><h1 class=\"heading\">Registers and Variables</h1><div id=\"ID4EEC1\" class=\"hxnx1\">\n    \n    <ul>\n      <li>The microcode must use HLSL local or global variable names. The <strong>asm</strong> microcode block cannot use any registers.</li>\n    <li>Only simple HLSL variables are allowed within the microcode—no structures or arrays. These variables can be swizzled.</li>\n      <li>\n        <p>HLSL variables can be used as the \"value\" part of a name-value pair in addition to being used as source and destination arguments.</p>\n        <pre>float4 fetchS( sampler2D s, float2 uv, float offsetX )\n{\n  float4 result;\n  asm {\n    tfetch2D result, uv, s, OffsetX = offsetX\n  };\n  return result;\n}        </pre>\n      </li>\n    </ul>\n  </div>\n  <a id=\"ID4E4C\"><!----></a><h1 class=\"heading\">HLSL Variable Binding in Microcode</h1><div id=\"ID4E4C1\" class=\"hxnx1\">\n    \n    <p>If a symbol is used as a microcode source, destination, or value argument, the symbol's meaning is determined as follows.</p>\n    <ol>\n      <li>If the symbol is a variable in the lexically enclosed HLSL environment, then that variable is used.</li>\n      <li>If the symbol appears as a \"value\" argument, and the symbol matches one of the existing GPU microcode enumerated types, then that enumerated value is used.</li>\n    </ol>\n  </div>\n  <a id=\"ID4ELD\"><!----></a><span>\n<div class=\"regionArea\">\n<span class=\"regiontitle\" style=\"white-space:nowrap\">See Also</span><div class=\"hrdiv\"><hr class=\"regionhr\"></div></div>\n<a id=\"seeAlsoToggle\"><!----></a>\n    <a id=\"ID4END\"><!----></a><h4 class=\"subHeading\">Concepts</h4><div id=\"ID4END1\" class=\"hxnx3\">\n      \n      <a id=\"ctl00_ContentPlaceHolder1_ctl08_ctl00_ctl00\" href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313874.aspx\">Vertex Fetching in HLSL (xvs_3_0, xps_3_0)</a><br>\n      <a id=\"ctl00_ContentPlaceHolder1_ctl08_ctl00_ctl01\" href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313873.aspx\">Texture Fetching in HLSL (xvs_3_0, xps_3_0)</a><br>\n      <a id=\"ctl00_ContentPlaceHolder1_ctl08_ctl00_ctl02\" href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313962.aspx\">Swizzling (xvs_3_0, xps_3_0)</a><br>\n    </div>\n    <a id=\"ID4E2D\"><!----></a><h4 class=\"subHeading\">Reference</h4><div id=\"ID4E2D1\" class=\"hxnx3\">\n      \n      <a id=\"ctl00_ContentPlaceHolder1_ctl08_ctl00_ctl03\" href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br>\n    </div>\n  </span>\n</div></div></div>\n        <hr><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa468128.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.1</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313871.aspx\">Inline Microcode Assembly in HLSL</a><hr>       \n    </div>\n    <div id=\"ctl00_WikiViewer1_cc\" class=\"wv_cc\">\n\t\n    <div id=\"ctl00_WikiViewer1_ccContainer\">\n\t\t<div class=\"wv_ccTopicTags\">\n\t\t\t<span class=\"wv_ccTitle\">Tags:&nbsp;</span><span></span>\n\t\t</div>\n        &nbsp;\n        <div class=\"wv_cclogo\">\n\t        <img id=\"ctl00_WikiViewer1_WikiLogo\" src=\"https://web.archive.org/web/20100423055133im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\" border=\"0\">\n        </div>\n        <div class=\"wv_cch\">\n           <span id=\"ctl00_WikiViewer1_CC_Title\">Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n<div id=\"ctl00_WikiViewer1_wikiItems\">\n\n</div>\n       <script type=\"text/javascript\" src=\"https://web.archive.org/web/20100423055133js_/http://i2.msdn.microsoft.com/en-us/library/mtps-bn20100413.js?l=en-us&amp;i=library&amp;ct=CollapsibleArea;CrawlerNav;InstrumentedLink;MtDisclaimer;ScriptFreeInstrumentedLink;WikiViewer\"></script>  \n    \n\n<script type=\"text/javascript\">\n//<![CDATA[\nSys.Application.initialize();\n//]]>\n</script>\n</form>\n\n\n\n</body></html>",
+  "cleaned_html": "<html>\n<head>\n<!-- End Wayback Rewrite JS Include -->\n<title>\n\tInline Microcode Assembly in HLSL\n</title>\n</head>\n<body>\n<!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<div>The Wayback Machine - https://web.archive.org/web/20100423055133/http://msdn.microsoft.com:80/en-us/library/bb313871.aspx</div>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form>\n<input>\n\n\n<div>\n        \n        <!--starting processing--><div>\n<div>XNA Game Studio 3.1<!---->\n</div>\n<div>Inline Microcode Assembly in HLSL<!---->\n</div>\n<!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div><div>\n  \n  \n  <p>\n    The <strong>asm</strong> keyword allows Xbox 360 GPU microcode to be inserted (inline) into HLSL functions, as shown here.\n  </p>\n  <pre>float4 FetchPosition( int i )\n{\n  float4 vertexPos;\n  asm {\n    vfetch vertexPos, i, position\n  };\n  return vertexPos;\n}  </pre>\n  <p>The inline microcode starts with <strong>asm{</strong>, followed by one or more microcode statements. It ends with <strong>};</strong>. The trailing semicolon at the end of the microcode block is always required.</p>\n  <p>The <strong>asm</strong> block does not contain a target such as <strong>xvs_3_0</strong> or <strong>xps_3_0</strong>. This allows the same routine to be called from both vertex shaders and pixel shaders. On Xbox 360, the <strong>asm</strong> block supports only <a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Xbox 360 microcode</a>.</p>\n  <a><!----></a><h1>Sequencer Statements</h1>\n<div>\n    \n    <ul>\n      <li>\n        <p>No control flow statements are allowed.  Instead, use one or more <strong>asm</strong> blocks with HLSL control flow.</p>\n        <pre>for ( int i = 0; i &lt; 2; i++ )\n{\n  asm {\n  // one or more microcode statements\n  };\n};        </pre>\n      </li>\n    </ul>\n  </div>\n  <a><!----></a><h1>Registers and Variables</h1>\n<div>\n    \n    <ul>\n      <li>The microcode must use HLSL local or global variable names. The <strong>asm</strong> microcode block cannot use any registers.</li>\n    <li>Only simple HLSL variables are allowed within the microcode—no structures or arrays. These variables can be swizzled.</li>\n      <li>\n        <p>HLSL variables can be used as the \"value\" part of a name-value pair in addition to being used as source and destination arguments.</p>\n        <pre>float4 fetchS( sampler2D s, float2 uv, float offsetX )\n{\n  float4 result;\n  asm {\n    tfetch2D result, uv, s, OffsetX = offsetX\n  };\n  return result;\n}        </pre>\n      </li>\n    </ul>\n  </div>\n  <a><!----></a><h1>HLSL Variable Binding in Microcode</h1>\n<div>\n    \n    <p>If a symbol is used as a microcode source, destination, or value argument, the symbol's meaning is determined as follows.</p>\n    <ol>\n      <li>If the symbol is a variable in the lexically enclosed HLSL environment, then that variable is used.</li>\n      <li>If the symbol appears as a \"value\" argument, and the symbol matches one of the existing GPU microcode enumerated types, then that enumerated value is used.</li>\n    </ol>\n  </div>\n  <a><!----></a><span>\n<div>\n<span>See Also</span><div><hr></div>\n</div>\n<a><!----></a>\n    <a><!----></a><h4>Concepts</h4>\n<div>\n      \n      <a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313874.aspx\">Vertex Fetching in HLSL (xvs_3_0, xps_3_0)</a><br>\n      <a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313873.aspx\">Texture Fetching in HLSL (xvs_3_0, xps_3_0)</a><br>\n      <a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313962.aspx\">Swizzling (xvs_3_0, xps_3_0)</a><br>\n    </div>\n    <a><!----></a><h4>Reference</h4>\n<div>\n      \n      <a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br>\n    </div>\n  </span>\n</div></div>\n</div>\n        <hr>\n<br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa468128.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.1</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313871.aspx\">Inline Microcode Assembly in HLSL</a><hr>       \n    </div>\n    <div>\n\t\n    <div>\n\t\t<div>\n\t\t\t<span>Tags: </span>\n</div>\n         \n        <div>\n\t        <img src=\"https://web.archive.org/web/20100423055133im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\">\n        </div>\n        <div>\n           <span>Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n</form>\n\n\n\n</body>\n</html>",
+  "markdown": "The Wayback Machine - https://web.archive.org/web/20100423055133/http://msdn.microsoft.com:80/en-us/library/bb313871.aspx\nXNA Game Studio 3.1\nInline Microcode Assembly in HLSL\nThe **asm** keyword allows Xbox 360 GPU microcode to be inserted (inline) into HLSL functions, as shown here. \n```\nfloat4 FetchPosition( int i )\n{\n  float4 vertexPos;\n  asm {\n    vfetch vertexPos, i, position\n  };\n  return vertexPos;\n}  \n```\n\nThe inline microcode starts with **asm{** , followed by one or more microcode statements. It ends with **};**. The trailing semicolon at the end of the microcode block is always required.\nThe **asm** block does not contain a target such as **xvs_3_0** or **xps_3_0**. This allows the same routine to be called from both vertex shaders and pixel shaders. On Xbox 360, the **asm** block supports only [Xbox 360 microcode](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx).\n# Sequencer Statements\n  * No control flow statements are allowed. Instead, use one or more **asm** blocks with HLSL control flow.\n```\nfor ( int i = 0; i < 2; i++ )\n{\n  asm {\n  // one or more microcode statements\n  };\n};        \n```\n\n\n\n# Registers and Variables\n  * The microcode must use HLSL local or global variable names. The **asm** microcode block cannot use any registers.\n  * Only simple HLSL variables are allowed within the microcode—no structures or arrays. These variables can be swizzled.\n  * HLSL variables can be used as the \"value\" part of a name-value pair in addition to being used as source and destination arguments.\n```\nfloat4 fetchS( sampler2D s, float2 uv, float offsetX )\n{\n  float4 result;\n  asm {\n    tfetch2D result, uv, s, OffsetX = offsetX\n  };\n  return result;\n}        \n```\n\n\n\n# HLSL Variable Binding in Microcode\nIf a symbol is used as a microcode source, destination, or value argument, the symbol's meaning is determined as follows.\n  1. If the symbol is a variable in the lexically enclosed HLSL environment, then that variable is used.\n  2. If the symbol appears as a \"value\" argument, and the symbol matches one of the existing GPU microcode enumerated types, then that enumerated value is used.\n\n\nSee Also\n* * *\n#### Concepts\n[Vertex Fetching in HLSL (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313874.aspx)  \n[Texture Fetching in HLSL (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313873.aspx)  \n[Swizzling (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313962.aspx)  \n\n#### Reference\n[Microcode Instructions (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313961.aspx)  \n\n* * *\n  \n[MSDN Library](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/ms123401.aspx)  \n[Development Tools and Languages](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa187916.aspx)  \n[XNA Game Studio](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/aa468128.aspx)  \n[XNA Game Studio 3.1](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb200104.aspx)  \n[Programming Guide](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb198548.aspx)  \n[Hardware and Platforms](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb975657.aspx)  \n[Xbox 360 Programming](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb417501.aspx)  \n[Microcode (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313877.aspx)  \n[Inline Microcode Assembly in HLSL](https://web.archive.org/web/20100423055133/http://msdn.microsoft.com/en-us/library/bb313871.aspx)\n* * *\nTags: \n![](https://web.archive.org/web/20100423055133im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif)\nCommunity Content\n",
+  "metadata": {
+    "title": "Inline Microcode Assembly in HLSL",
+    "description": null,
+    "keywords": "HLSL, inline microcode assembly,microcode, sequencer statements,microcode, registers and variables,microcode, HLSL variable binding",
+    "author": null
+  },
+  "links": {
+    "internal": [
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313877.aspx",
+        "text": "Xbox 360 microcode",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313874.aspx",
+        "text": "Vertex Fetching in HLSL (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313873.aspx",
+        "text": "Texture Fetching in HLSL (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313962.aspx",
+        "text": "Swizzling (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313961.aspx",
+        "text": "Microcode Instructions (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/ms123401.aspx",
+        "text": "MSDN Library",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/aa187916.aspx",
+        "text": "Development Tools and Languages",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/aa468128.aspx",
+        "text": "XNA Game Studio",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb200104.aspx",
+        "text": "XNA Game Studio 3.1",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb198548.aspx",
+        "text": "Programming Guide",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb975657.aspx",
+        "text": "Hardware and Platforms",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb417501.aspx",
+        "text": "Xbox 360 Programming",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100423055133/http%3A//msdn.microsoft.com/en-us/library/bb313871.aspx",
+        "text": "Inline Microcode Assembly in HLSL",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "word_count": 397
+}

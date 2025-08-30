@@ -1,0 +1,352 @@
+{
+  "url": "https://web.archive.org/web/20100423054747/http://msdn.microsoft.com/en-us/library/bb313956.aspx",
+  "original_url": "http://msdn.microsoft.com/en-us/library/bb313956.aspx",
+  "title": "tfetch1D (xvs_3_0, xps_3_0)",
+  "status_code": 302,
+  "success": true,
+  "scraped_at": 1756584796.4413528,
+  "category": "instruction",
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head id=\"ctl00_Head1\"><script src=\"//archive.org/includes/athena.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app222.us.archive.org';v.server_ms=2006;archive_analytics.send_pageview({});});</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/bundle-playback.js?v=FC38Hc5A\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC\" charset=\"utf-8\"></script>\n<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={\"autoplay\":\"on\",\"unmuteOverlay\":\"hidden\",\"showSwfDownload\":true};</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/ruffle/ruffle.js\"></script>\n<script type=\"text/javascript\">\n    __wm.init(\"https://web.archive.org/web\");\n  __wm.wombat(\"http://msdn.microsoft.com:80/en-us/library/bb313956.aspx\",\"20090511231340\",\"https://web.archive.org/\",\"web\",\"https://web-static.archive.org/_static/\",\n\t      \"1242083620\");\n</script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\">\n<!-- End Wayback Rewrite JS Include -->\n<meta name=\"MN\" content=\"74838604-4:13:40 PM\"><meta name=\"ms.locale\" content=\"en-us\"><meta name=\"Search.ShortId\" content=\"bb313956\"><meta name=\"MSHKeywordK\" content=\"tfetch1D\">\n<meta name=\"Search.MSHKeywordK\" content=\"tfetch1D\">\n<meta name=\"MSHAttr\" content=\"ProjType:LocalProj\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"LocalProj\">\n<meta name=\"MSHAttr\" content=\"ProjType:XNA_30\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"XNA_30\">\n<meta name=\"MSHAttr\" content=\"DocSet:XNA\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSet:ExpressLibVS\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"ExpressLibVS\">\n<meta name=\"MSHAttr\" content=\"DocSet:C#\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"C#\">\n<meta name=\"MSHAttr\" content=\"Locale:en-us\">\n<meta name=\"Search.MSHAttr.Locale\" content=\"en-us\">\n<meta name=\"MSHAttr\" content=\"CommunityContent:1\">\n<meta name=\"Search.MSHAttr.CommunityContent\" content=\"1\">\n<meta name=\"MSHAttr\" content=\"AssetID:11d5cb17-ddb6-ed32-8857-e650fca75c6e\">\n<meta name=\"Search.MSHAttr.AssetID\" content=\"11d5cb17-ddb6-ed32-8857-e650fca75c6e\">\n<meta name=\"MSHAttr\" content=\"TopicType:kbOrient\">\n<meta name=\"Search.MSHAttr.TopicType\" content=\"kbOrient\">\n<meta name=\"MSHAttr\" content=\"DocSetTitle:XNA\">\n<meta name=\"Search.MSHAttr.DocSetTitle\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSetRoot:Bb313956\">\n<meta name=\"Search.MSHAttr.DocSetRoot\" content=\"Bb313956\">\n<meta name=\"save\" content=\"history\">\n<meta name=\"Search.save\" content=\"history\">\n<meta name=\"keywords\" content=\"tfetch1D\">\n<meta name=\"Search.MSCategory\" content=\"ms310247\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310247MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310249\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310249MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310241\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310241MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa187916\">\n<meta name=\"Search.MSCategoryV\" content=\"aa187916MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa187935\">\n<meta name=\"Search.MSCategoryV\" content=\"aa187935MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"dd253701\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253701XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd253708\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253708XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd253710\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253710XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd282526\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282526XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd282529\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282529XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd282530\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282530XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"dd282534\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282534XNAGameStudio30\">\n<meta name=\"Search.MSCategory\" content=\"bb313956\">\n<meta name=\"Search.MSCategoryV\" content=\"bb313956XNAGameStudio30\">\n<meta name=\"Search.TocNodeId\" content=\"bb313956\">\n<meta name=\"MSHAttr\" content=\"Rating:0.000\">\n<meta name=\"Search.Rating\" content=\"0\">\n<meta name=\"MSMETANRatingMSMETAV\" content=\"0\">\n<meta name=\"Search.RootTocId\" content=\"ms310241\"><meta name=\"MSHAttr\" content=\"ShippedIn:XNAGameStudio.30\"><meta name=\"Search.ShippedIn\" content=\"XNAGameStudio30\"><meta name=\"Search.GuidIdentifier\" content=\"11d5cb17-ddb6-ed32-8857-e650fca75c6e\"><link rel=\"stylesheet\" type=\"text/css\" href=\"https://web.archive.org/web/20090511231340cs_/http://i3.msdn.microsoft.com/en-us/library/mtps-bn20090413.css?l=en-us&amp;i=library&amp;ct=CollapsibleArea;CrawlerNav;MtDisclaimer;WikiViewer&amp;clustimg=1\"><title>\n\ttfetch1D (xvs_3_0, xps_3_0)\n</title></head>\n<body id=\"ctl00_body1\" dir=\"ltr\"><!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<script>__wm.rw(0);</script>\n<div id=\"wm-ipp-base\" lang=\"en\" style=\"display:none;direction:ltr;\" toolbar-mode=\"auto\">\n<div id=\"wm-ipp\" style=\"position:fixed;left:0;top:0;right:0;\">\n<div id=\"donato\" style=\"position:relative;width:100%;height:0;\">\n  <div id=\"donato-base\">\n    <iframe id=\"donato-if\" src=\"https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313956.aspx\" scrolling=\"no\" frameborder=\"0\" style=\"width:100%; height:100%\">\n    </iframe>\n  </div>\n</div><div id=\"wm-ipp-inside\">\n  <div id=\"wm-toolbar\" style=\"position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;\">\n    <div id=\"wm-logo\" style=\"/*width:110px;*/padding-top:12px;\">\n      <a href=\"/web/\" title=\"Wayback Machine home page\"><img src=\"https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png\" srcset=\"https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x\" alt=\"Wayback Machine\" style=\"width:100px\" border=\"0\"></a>\n    </div>\n    <div class=\"c\" style=\"display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;\">\n      <form class=\"u\" style=\"display:flex;flex-direction:row;flex-wrap:nowrap;\" target=\"_top\" method=\"get\" action=\"/web/submit\" name=\"wmtb\" id=\"wmtb\"><input type=\"text\" name=\"url\" id=\"wmtbURL\" value=\"http://msdn.microsoft.com/en-us/library/bb313956.aspx\" onfocus=\"this.focus();this.select();\" style=\"flex:1;\"><input type=\"hidden\" name=\"type\" value=\"replay\"><input type=\"hidden\" name=\"date\" value=\"20090511231340\"><input type=\"submit\" value=\"Go\">\n      </form>\n      <div style=\"display:flex;flex-flow:row nowrap;align-items:flex-end;\">\n                <div class=\"s\" id=\"wm-nav-captures\" style=\"flex:1;\">\n                    <a class=\"t\" href=\"/web/20090511231340*/http://msdn.microsoft.com/en-us/library/bb313956.aspx\" title=\"See a list of every capture for this URL\">1 capture</a>\n          <div class=\"r\" title=\"Timespan for captures of this URL\">11 May 2009</div>\n          </div>\n        <div class=\"k\">\n          <a href=\"\" id=\"wm-graph-anchor\">\n            <div id=\"wm-ipp-sparkline\" title=\"Explore captures for this URL\" style=\"position: relative\">\n              <canvas id=\"wm-sparkline-canvas\" width=\"750\" height=\"27\" border=\"0\"></canvas>\n            </div>\n          </a>\n        </div>\n      </div>\n    </div>\n    <div class=\"n\">\n      <table>\n        <tbody>\n          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->\n          <tr class=\"m\">\n            <td class=\"b\" nowrap=\"nowrap\">Apr</td>\n            <td class=\"c\" id=\"displayMonthEl\" title=\"You are here: 23:13:40 May 11, 2009\">MAY</td>\n            <td class=\"f\" nowrap=\"nowrap\">Jun</td>\n          </tr>\n          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->\n          <tr class=\"d\">\n            <td class=\"b\" nowrap=\"nowrap\"><img src=\"https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_off.png\" alt=\"Previous capture\" width=\"14\" height=\"16\" border=\"0\"></td>\n            <td class=\"c\" id=\"displayDayEl\" style=\"width:34px;font-size:22px;white-space:nowrap;\" title=\"You are here: 23:13:40 May 11, 2009\">11</td>\n            <td class=\"f\" nowrap=\"nowrap\"><img src=\"https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png\" alt=\"Next capture\" width=\"14\" height=\"16\" border=\"0\"></td>\n          </tr>\n          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->\n          <tr class=\"y\">\n            <td class=\"b\" nowrap=\"nowrap\">2008</td>\n            <td class=\"c\" id=\"displayYearEl\" title=\"You are here: 23:13:40 May 11, 2009\">2009</td>\n            <td class=\"f\" nowrap=\"nowrap\">2010</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    <div class=\"r\" style=\"display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;\">\n      <div id=\"wm-btns\" style=\"text-align:right;height:23px;\">\n                <span class=\"xxs\">\n          <div id=\"wm-save-snapshot-success\">success</div>\n          <div id=\"wm-save-snapshot-fail\">fail</div>\n          <a id=\"wm-save-snapshot-open\" href=\"#\" title=\"Share via My Web Archive\">\n            <span class=\"iconochive-web\"></span>\n          </a>\n          <a href=\"https://archive.org/account/login.php\" title=\"Sign In\" id=\"wm-sign-in\">\n            <span class=\"iconochive-person\"></span>\n          </a>\n          <span id=\"wm-save-snapshot-in-progress\" class=\"iconochive-web\"></span>\n        </span>\n                <a class=\"xxs\" href=\"https://help.archive.org/help/category/the-wayback-machine/\" title=\"Get some help using the Wayback Machine\" style=\"top:-6px;\"><span class=\"iconochive-question\" style=\"color:rgb(87,186,244);font-size:160%;\"></span></a>\n        <a id=\"wm-tb-close\" href=\"#close\" style=\"top:-2px;\" title=\"Close the toolbar\"><span class=\"iconochive-remove-circle\" style=\"color:#888888;font-size:240%;\"></span></a>\n      </div>\n      <div id=\"wm-share\" class=\"xxs\">\n        <a href=\"/web/20090511231340/http://web.archive.org/screenshot/http://msdn.microsoft.com/en-us/library/bb313956.aspx\" id=\"wm-screenshot\" title=\"screenshot\">\n          <span class=\"wm-icon-screen-shot\"></span>\n        </a>\n        <a href=\"#\" id=\"wm-video\" title=\"video\">\n          <span class=\"iconochive-movies\"></span>\n        </a>\n        <a id=\"wm-share-facebook\" href=\"#\" data-url=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com:80/en-us/library/bb313956.aspx\" title=\"Share on Facebook\" style=\"margin-right:5px;\" target=\"_blank\"><span class=\"iconochive-facebook\" style=\"color:#3b5998;font-size:160%;\"></span></a>\n        <a id=\"wm-share-twitter\" href=\"#\" data-url=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com:80/en-us/library/bb313956.aspx\" title=\"Share on Twitter\" style=\"margin-right:5px;\" target=\"_blank\"><span class=\"iconochive-twitter\" style=\"color:#1dcaff;font-size:160%;\"></span></a>\n      </div>\n      <div style=\"padding-right:2px;text-align:right;white-space:nowrap;\">\n        <a id=\"wm-expand\" class=\"wm-btn wm-closed\" href=\"#expand\"><span id=\"wm-expand-icon\" class=\"iconochive-down-solid\"></span> <span class=\"xxs\" style=\"font-size:80%;\">About this capture</span></a>\n      </div>\n    </div>\n  </div>\n    <div id=\"wm-capinfo\" style=\"border-top:1px solid #777;display:none; overflow: hidden\">\n        <div id=\"wm-capinfo-notice\" source=\"api\"></div>\n                <div id=\"wm-capinfo-collected-by\">\n    <div style=\"background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;\">COLLECTED BY</div>\n    <div style=\"padding:3px;position:relative\" id=\"wm-collected-by-content\">\n            <div style=\"display:inline-block;vertical-align:top;width:50%;\">\n\t\t\t<span class=\"c-logo\" style=\"background-image:url(https://archive.org/services/img/alexacrawls);\"></span>\n\t\tOrganization: <a style=\"color:#33f;\" href=\"https://archive.org/details/alexacrawls\" target=\"_new\"><span class=\"wm-title\">Alexa Crawls</span></a>\n\t\t<div style=\"max-height:75px;overflow:hidden;position:relative;\">\n\t  <div style=\"position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);\"></div>\n\t  Starting in 1996, <a href=\"http://www.alexa.com/\">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href=\"http://web.archive.org/\">Wayback Machine</a> after an embargo period.\n\t</div>\n\t      </div>\n      <div style=\"display:inline-block;vertical-align:top;width:49%;\">\n\t\t\t<span class=\"c-logo\" style=\"background-image:url(https://archive.org/services/img/alexa_web_2009)\"></span>\n\t\t<div>Collection: <a style=\"color:#33f;\" href=\"https://archive.org/details/alexa_web_2009\" target=\"_new\"><span class=\"wm-title\">alexa_web_2009</span></a></div>\n\t\t<div style=\"max-height:75px;overflow:hidden;position:relative;\">\n\t  <div style=\"position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);\"></div>\n\t  this data is currently not publicly accessible.\n\t</div>\n\t      </div>\n    </div>\n    </div>\n    <div id=\"wm-capinfo-timestamps\">\n    <div style=\"background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;\" title=\"Timestamps for the elements of this page\">TIMESTAMPS</div>\n    <div>\n      <div id=\"wm-capresources\" style=\"margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important\"></div>\n      <div id=\"wm-capresources-loading\" style=\"text-align:left;margin:0 20px 5px 5px;display:none\"><img src=\"https://web-static.archive.org/_static/images/loading.gif\" alt=\"loading\"></div>\n    </div>\n    </div>\n  </div></div></div></div><div id=\"wm-ipp-print\">The Wayback Machine - https://web.archive.org/web/20090511231340/http://msdn.microsoft.com:80/en-us/library/bb313956.aspx</div>\n<script type=\"text/javascript\">//<![CDATA[\n__wm.bt(750,27,25,2,\"web\",\"http://msdn.microsoft.com/en-us/library/bb313956.aspx\",\"20090511231340\",1996,\"https://web-static.archive.org/_static/\",[\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\",\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\"], false);\n  __wm.rw(1);\n//]]></script>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form name=\"aspnetForm\" method=\"post\" action=\"bb313956.aspx\" id=\"aspnetForm\">\n<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUBMGRk9fo2u6sAqapv5HtNATug6rd+gms=\">\n\n\n<script src=\"https://web.archive.org/web/20090511231340js_/http://i2.msdn.microsoft.com/platform/cjs/extract/System.Web.Extensions/3.5.0.0/3.5.30729.1/MicrosoftAjax.js\" type=\"text/javascript\"></script>\n    \n    <div>\n        \n        <!--starting processing--><div class=\"topic\"><div class=\"majorTitle\">XNA Game Studio 3.0<!----></div><div class=\"title\">tfetch1D (xvs_3_0, xps_3_0)<!----></div><!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div id=\"mainSection\"><div id=\"mainBody\">\n  \n  \n  Fetches sample data from a 1D texture.\n  <table>\n    <tbody><tr><td>\n        <pre>tfetch1D dest, src1, fetchConst [, name = value, ...]</pre>\n      </td></tr>\n  </tbody></table>\n  <a id=\"ID2E1\"><!----></a><h1 class=\"heading\">Name-Value Pair</h1><div id=\"ID2E11\" class=\"hxnx1\">\n    \n    <dl class=\"glossary\">\n      <dt>\n        <strong>UnnormalizedTextureCoords</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>, texture coordinates should range between 0 and the dimensions of the texture; otherwise, the texture coordinates should range beween 0.0f and 1.0f. The default value is <strong>false</strong>.</dd>\n      <dt>\n        <strong>MagFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used when the texture is magnified. <strong>MagFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody><tr><th>Value</th><th>Description</th></tr>\n          <tr><td>point</td><td>Point filter. The texel with coordinates nearest to the desired pixel value is used.</td></tr>\n          <tr><td>linear</td><td>Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.</td></tr>\n          <tr><td>keep</td><td>Use the filtering set up by Direct3D. This is the default value.</td></tr>\n        </tbody></table>\n      </dd>\n      <dt>\n        <strong>MinFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used when the texture is minified. <strong>MinFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody><tr><th>Value</th><th>Description</th></tr>\n          <tr><td>point</td><td>Point filter. The texel with coordinates nearest to the desired pixel value is used.</td></tr>\n          <tr><td>linear</td><td>Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.</td></tr>\n          <tr><td>keep</td><td>Use the filtering set up by Direct3D. This is the default value.</td></tr>\n        </tbody></table>\n      </dd>\n      <dt>\n        <strong>MipFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used between mipmap levels. <strong>MipFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody><tr><th>Value</th><th>Description</th></tr>\n          <tr><td>point</td><td>Point filter. The mipmap with coordinates nearest to the desired pixel value is used.</td></tr>\n          <tr><td>linear</td><td>Trilinear interpolation filtering is used as a mipmap filter, using the texels of the two nearest mipmap textures.</td></tr>\n          <tr><td>keep</td><td>Use the filtering set up by Direct3D. This is the default value.</td></tr>\n        </tbody></table>\n      </dd>\n      <dt>\n        <strong>AnisoFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Anisotropic filter used for minification and magnification. <strong>AnisoFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody><tr><th>Value</th><th>Description</th></tr>\n          <tr><td>disabled</td><td>No anisotropic filtering.</td></tr>\n          <tr><td>max1to1</td><td>Use at most 1 sample for anisotropic filtering.</td></tr>\n          <tr><td>max2to1</td><td>Use at most 2 samples for anisotropic filtering.</td></tr>\n          <tr><td>max4to1</td><td>Use at most 4 samples for anisotropic filtering.</td></tr>\n          <tr><td>max8to1</td><td>Use at most 8 samples for anisotropic filtering.</td></tr>\n          <tr><td>max16to1</td><td>Use at most 16 samples for anisotropic filtering.</td></tr>\n          <tr><td>keep</td><td>Use the anisotropic filtering as set up by Direct3D. This is the default value.</td></tr>\n        </tbody></table>\n      </dd>\n      <dt>\n        <strong>UseComputedLOD</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseComputedLOD</strong> is <strong>true</strong>, the shader will use the LOD computed in the texture pipeline. The default value is <strong>true</strong>. For more details, see <a id=\"ctl00_ContentPlaceHolder1_ctl01\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>UseRegisterLOD</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseRegisterLOD</strong> is <strong>true</strong>, the shader will use the LOD set by <a id=\"ctl00_ContentPlaceHolder1_ctl02\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx\">setTexLOD</a>. The default value is <strong>false</strong>. For more details, see <a id=\"ctl00_ContentPlaceHolder1_ctl03\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>LODBias</strong> = <strong>float</strong>\n      </dt>\n      <dd>Bias to add to the LOD. The <em>value</em> must be a number between −4.0 and 3.9375. In addition, <em>value</em> must be an integer multiple of 0.0625. The default value is 0.0f. For more details, see <a id=\"ctl00_ContentPlaceHolder1_ctl04\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>OffsetX</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the x-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>OffsetY</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the y-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>OffsetZ</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the z-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>FetchValidOnly</strong> = <strong>bool</strong>\n      </dt>\n      <dd>\n        <p>Performance booster that determines if pixel data should be fetched for pixels outside of the current primitive. The default value is <strong>true</strong>. For vertex shaders, <strong>FetchValidOnly</strong> should always be <strong>true</strong>. For pixel shaders, <strong>FetchValidOnly</strong> should be <strong>true</strong>, unless the result of the <strong>tfetch</strong> instruction is used to calculate a gradient, by using <a id=\"ctl00_ContentPlaceHolder1_ctl05\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb464129.aspx\">getGradients</a> or a <strong>tfetch</strong> instruction with <strong>UseComputedLOD</strong> set to <strong>true</strong>.\n        </p>\n        <p>Gradient information is calculated by running a 2×2 quad of pixel shaders and computing the difference between the resulting pixels. At the edges of triangles, there are situations where one or more of the pixel shaders in the quad lies outside the boundary of the triangle, and so its computed values won't be output. The <strong>FetchValidOnly</strong> value is used to tell the hardware that it doesn't have to fetch the pixel data for these out-of-bounds pixel shaders. When <strong>FetchValidOnly</strong> is <strong>true</strong>, data will be fetched only for those pixels that are valid (inside the triangle), which speeds up the calculations.</p>\n        <p>In cases where the result of the texture fetch is itself used to calculate gradient information, all four pixel shaders in the quad are necessary to compute the gradients, and <strong>FetchValidOnly</strong> should be set to <strong>false</strong>.</p>\n      </dd>\n    </dl>\n  </div>\n  <a id=\"remarks\"><!----></a><div id=\"ctl00_ContentPlaceHolder1_cpe83116\" class=\"MTPS_CollapsibleRegion\">\n\t<div id=\"ctl00_ContentPlaceHolder1_cpe83116_h\" class=\"CollapseRegionLink\" onclick=\"applyClick('ctl00_ContentPlaceHolder1_cpe83116');\">\n\t\t<img id=\"ctl00_ContentPlaceHolder1_cpe83116_i\" class=\"LibC_o\" src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/clear.gif\" border=\"0\" style=\"vertical-align:middle;\">&nbsp;Remarks\n\t</div><div id=\"ctl00_ContentPlaceHolder1_cpe83116_c\" class=\"MTPS_CollapsibleSection\" style=\"display:block;\">\n\t\t<a id=\"ID2EKFAC\"><!----></a>\n    <p>The <em>src1</em> register specifies the coordinates from which to fetch the sample data.</p>\n    <p>If <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>, you must set the <a id=\"ctl00_ContentPlaceHolder1_ctl12\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.samplerstate.addressu.aspx\">AddressU</a> texture sampler state to a clamping mode such as <a id=\"ctl00_ContentPlaceHolder1_ctl13\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.textureaddressmode.aspx\">TextureAddressMode.Clamp</a>, rather than a wrapping mode. Using a wrapping mode will force normalized texture coordinates even if <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>.</p>\n    <p>To access access 1D textures that are wider than 8192 texels, you must use unnormalized texture coordinates.</p>\n    <div class=\"alert\"><table><tbody><tr><th><!--src=[note.gif]--><img alt=\"Bb313956.note(en-US,XNAGameStudio.30).gif\" src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Bb313956.note(en-US,XNAGameStudio.30).gif\">Note </th></tr><tr><td>To use the <strong>tfetch1D (xvs_3_0, xps_3_0)</strong> instruction in a vertex shader, <strong>UseComputedLOD</strong> must be <strong>false</strong> unless you manually set the gradients and set <strong>UseRegisterGradients</strong> to <strong>true</strong>.</td></tr></tbody></table></div>\n    <a id=\"bias\"><!----></a><h2 class=\"subHeading\">Computing the LOD</h2><div id=\"bias1\" class=\"hxnx2\">\n      \n      <p>The total LOD for a sample is additive and is based on what is enabled. The total LOD is determined by the LOD computed in the texture pipeline (if <strong>UseComputedLOD</strong> is <strong>true</strong>), the LOD set by <a id=\"ctl00_ContentPlaceHolder1_ctl15\" href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx\">setTexLOD</a> (if <strong>UseRegisterLOD</strong> is <strong>true</strong>), and the <strong>LODBias</strong> value.</p>\n    </div>\n  \n\t</div>\n</div>\n</div></div></div>\n        <hr><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187935.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.0</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313942.aspx\">Fetch Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">tfetch1D (xvs_3_0, xps_3_0)</a><hr>       \n    </div>\n    <div id=\"ctl00_WikiViewer1_cc\" class=\"wv_cc\">\n\t\n    <div id=\"ctl00_WikiViewer1_ccContainer\">\n\t\t<div class=\"wv_ccTopicTags\">\n\t\t\t<span class=\"wv_ccTitle\">Tags:&nbsp;</span><span></span>\n\t\t</div>\n        &nbsp;\n        <div class=\"wv_cclogo\">\n\t        <img id=\"ctl00_WikiViewer1_WikiLogo\" src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\" border=\"0\">\n        </div>\n        <div class=\"wv_cch\">\n           <span id=\"ctl00_WikiViewer1_CC_Title\">Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n<div id=\"ctl00_WikiViewer1_wikiItems\">\n\n</div><script type=\"text/javascript\" src=\"https://web.archive.org/web/20090511231340js_/http://i2.msdn.microsoft.com/en-us/library/mtps-bn20090413.js?l=en-us&amp;i=library&amp;ct=CollapsibleArea;CrawlerNav;MtDisclaimer;WikiViewer\"></script>\n    \n\n<script type=\"text/javascript\">\n//<![CDATA[\nSys.Application.initialize();\n//]]>\n</script>\n</form>\n\n\n\n</body></html>",
+  "cleaned_html": "<html>\n<head>\n<!-- End Wayback Rewrite JS Include -->\n<title>\n\ttfetch1D (xvs_3_0, xps_3_0)\n</title>\n</head>\n<body>\n<!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<div>\n<div>\n<div>\n  <div>\n    <div>\n      <a href=\"/web/\" title=\"Wayback Machine home page\"><img src=\"https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png\" alt=\"Wayback Machine\"></a>\n    </div>\n    <div>\n      <form>\n<input><input><input><input>\n      </form>\n      <div>\n                <div>\n                    <a href=\"/web/20090511231340*/http://msdn.microsoft.com/en-us/library/bb313956.aspx\" title=\"See a list of every capture for this URL\">1 capture</a>\n          <div title=\"Timespan for captures of this URL\">11 May 2009</div>\n          </div>\n        <div>\n          <a href=\"\">\n            </a>\n        </div>\n      </div>\n    </div>\n    <div>\n      <table>\n        <tbody>\n          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->\n          <tr>\n            <td>Apr</td>\n            <td title=\"You are here: 23:13:40 May 11, 2009\">MAY</td>\n            <td>Jun</td>\n          </tr>\n          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->\n          <tr>\n            <td><img src=\"https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_off.png\" alt=\"Previous capture\" width=\"14\" height=\"16\"></td>\n            <td title=\"You are here: 23:13:40 May 11, 2009\">11</td>\n            <td><img src=\"https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png\" alt=\"Next capture\" width=\"14\" height=\"16\"></td>\n          </tr>\n          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->\n          <tr>\n            <td>2008</td>\n            <td title=\"You are here: 23:13:40 May 11, 2009\">2009</td>\n            <td>2010</td>\n          </tr>\n        </tbody>\n      </table>\n    </div>\n    <div>\n      <div>\n                <span>\n          <div>success</div>\n          <div>fail</div>\n          <a href=\"#\" title=\"Share via My Web Archive\">\n            </a>\n          <a href=\"https://archive.org/account/login.php\" title=\"Sign In\">\n            </a>\n          </span>\n                <a href=\"https://help.archive.org/help/category/the-wayback-machine/\" title=\"Get some help using the Wayback Machine\"></a>\n        <a href=\"#close\" title=\"Close the toolbar\"></a>\n      </div>\n      <div>\n        <a href=\"/web/20090511231340/http://web.archive.org/screenshot/http://msdn.microsoft.com/en-us/library/bb313956.aspx\" title=\"screenshot\">\n          </a>\n        <a href=\"#\" title=\"video\">\n          </a>\n        <a href=\"#\" title=\"Share on Facebook\"></a>\n        <a href=\"#\" title=\"Share on Twitter\"></a>\n      </div>\n      <div>\n        <a href=\"#expand\"><span>About this capture</span></a>\n      </div>\n    </div>\n  </div>\n    <div>\n        <div>\n    <div>COLLECTED BY</div>\n    <div>\n            <div>\n\t\t\t<a href=\"https://archive.org/details/alexacrawls\"><span>Alexa Crawls</span></a>\n\t\t<div>\n\t  <a href=\"http://www.alexa.com/\">Alexa Internet</a> has been donating their crawl data to the Internet Archive.  Flowing in every day, these data are added to the <a href=\"http://web.archive.org/\">Wayback Machine</a> after an embargo period.\n\t</div>\n\t      </div>\n      <div>\n\t\t\t<div>Collection: <a href=\"https://archive.org/details/alexa_web_2009\"><span>alexa_web_2009</span></a>\n</div>\n\t\t</div>\n    </div>\n    </div>\n    <div>\n    <div title=\"Timestamps for the elements of this page\">TIMESTAMPS</div>\n    <div>\n      <div><img src=\"https://web-static.archive.org/_static/images/loading.gif\" alt=\"loading\"></div>\n    </div>\n    </div>\n  </div>\n</div>\n</div>\n</div>\n<div>The Wayback Machine - https://web.archive.org/web/20090511231340/http://msdn.microsoft.com:80/en-us/library/bb313956.aspx</div>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form>\n<input>\n\n\n<div>\n        \n        <!--starting processing--><div>\n<div>XNA Game Studio 3.0<!---->\n</div>\n<div>tfetch1D (xvs_3_0, xps_3_0)<!---->\n</div>\n<!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div><div>\n  \n  \n  Fetches sample data from a 1D texture.\n  <table>\n    <tbody>\n<tr><td>\n        <pre>tfetch1D dest, src1, fetchConst [, name = value, ...]</pre>\n      </td></tr>\n  </tbody>\n</table>\n  <a><!----></a><h1>Name-Value Pair</h1>\n<div>\n    \n    <dl>\n      <dt>\n        <strong>UnnormalizedTextureCoords</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>, texture coordinates should range between 0 and the dimensions of the texture; otherwise, the texture coordinates should range beween 0.0f and 1.0f. The default value is <strong>false</strong>.</dd>\n      <dt>\n        <strong>MagFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used when the texture is magnified. <strong>MagFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody>\n<tr>\n<th>Value</th>\n<th>Description</th>\n</tr>\n          <tr>\n<td>point</td>\n<td>Point filter. The texel with coordinates nearest to the desired pixel value is used.</td>\n</tr>\n          <tr>\n<td>linear</td>\n<td>Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.</td>\n</tr>\n          <tr>\n<td>keep</td>\n<td>Use the filtering set up by Direct3D. This is the default value.</td>\n</tr>\n        </tbody>\n</table>\n      </dd>\n      <dt>\n        <strong>MinFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used when the texture is minified. <strong>MinFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody>\n<tr>\n<th>Value</th>\n<th>Description</th>\n</tr>\n          <tr>\n<td>point</td>\n<td>Point filter. The texel with coordinates nearest to the desired pixel value is used.</td>\n</tr>\n          <tr>\n<td>linear</td>\n<td>Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.</td>\n</tr>\n          <tr>\n<td>keep</td>\n<td>Use the filtering set up by Direct3D. This is the default value.</td>\n</tr>\n        </tbody>\n</table>\n      </dd>\n      <dt>\n        <strong>MipFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Filter used between mipmap levels. <strong>MipFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody>\n<tr>\n<th>Value</th>\n<th>Description</th>\n</tr>\n          <tr>\n<td>point</td>\n<td>Point filter. The mipmap with coordinates nearest to the desired pixel value is used.</td>\n</tr>\n          <tr>\n<td>linear</td>\n<td>Trilinear interpolation filtering is used as a mipmap filter, using the texels of the two nearest mipmap textures.</td>\n</tr>\n          <tr>\n<td>keep</td>\n<td>Use the filtering set up by Direct3D. This is the default value.</td>\n</tr>\n        </tbody>\n</table>\n      </dd>\n      <dt>\n        <strong>AnisoFilter</strong> = <strong>enum</strong>\n      </dt>\n      <dd>\n        <p>Anisotropic filter used for minification and magnification. <strong>AnisoFilter</strong> must be one of the following values.</p>\n        <table>\n          <tbody>\n<tr>\n<th>Value</th>\n<th>Description</th>\n</tr>\n          <tr>\n<td>disabled</td>\n<td>No anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>max1to1</td>\n<td>Use at most 1 sample for anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>max2to1</td>\n<td>Use at most 2 samples for anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>max4to1</td>\n<td>Use at most 4 samples for anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>max8to1</td>\n<td>Use at most 8 samples for anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>max16to1</td>\n<td>Use at most 16 samples for anisotropic filtering.</td>\n</tr>\n          <tr>\n<td>keep</td>\n<td>Use the anisotropic filtering as set up by Direct3D. This is the default value.</td>\n</tr>\n        </tbody>\n</table>\n      </dd>\n      <dt>\n        <strong>UseComputedLOD</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseComputedLOD</strong> is <strong>true</strong>, the shader will use the LOD computed in the texture pipeline. The default value is <strong>true</strong>. For more details, see <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>UseRegisterLOD</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseRegisterLOD</strong> is <strong>true</strong>, the shader will use the LOD set by <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx\">setTexLOD</a>. The default value is <strong>false</strong>. For more details, see <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>LODBias</strong> = <strong>float</strong>\n      </dt>\n      <dd>Bias to add to the LOD. The <em>value</em> must be a number between −4.0 and 3.9375. In addition, <em>value</em> must be an integer multiple of 0.0625. The default value is 0.0f. For more details, see <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">Computing the LOD</a>.</dd>\n      <dt>\n        <strong>OffsetX</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the x-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>OffsetY</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the y-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>OffsetZ</strong> = <strong>float</strong>\n      </dt>\n      <dd>Value added to the z-component of the texel address right before sampling. The <em>value</em> must be between −8.0f and 7.5f. In addition, <em>value</em> must be an integer multiple of 0.5f. The default value is 0.0f.</dd>\n      <dt>\n        <strong>FetchValidOnly</strong> = <strong>bool</strong>\n      </dt>\n      <dd>\n        <p>Performance booster that determines if pixel data should be fetched for pixels outside of the current primitive. The default value is <strong>true</strong>. For vertex shaders, <strong>FetchValidOnly</strong> should always be <strong>true</strong>. For pixel shaders, <strong>FetchValidOnly</strong> should be <strong>true</strong>, unless the result of the <strong>tfetch</strong> instruction is used to calculate a gradient, by using <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb464129.aspx\">getGradients</a> or a <strong>tfetch</strong> instruction with <strong>UseComputedLOD</strong> set to <strong>true</strong>.\n        </p>\n        <p>Gradient information is calculated by running a 2×2 quad of pixel shaders and computing the difference between the resulting pixels. At the edges of triangles, there are situations where one or more of the pixel shaders in the quad lies outside the boundary of the triangle, and so its computed values won't be output. The <strong>FetchValidOnly</strong> value is used to tell the hardware that it doesn't have to fetch the pixel data for these out-of-bounds pixel shaders. When <strong>FetchValidOnly</strong> is <strong>true</strong>, data will be fetched only for those pixels that are valid (inside the triangle), which speeds up the calculations.</p>\n        <p>In cases where the result of the texture fetch is itself used to calculate gradient information, all four pixel shaders in the quad are necessary to compute the gradients, and <strong>FetchValidOnly</strong> should be set to <strong>false</strong>.</p>\n      </dd>\n    </dl>\n  </div>\n  <a><!----></a><div>\n\t<div>\n\t\t<img src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/clear.gif\"> Remarks\n\t</div>\n<div>\n\t\t<a><!----></a>\n    <p>The <em>src1</em> register specifies the coordinates from which to fetch the sample data.</p>\n    <p>If <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>, you must set the <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.samplerstate.addressu.aspx\">AddressU</a> texture sampler state to a clamping mode such as <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.textureaddressmode.aspx\">TextureAddressMode.Clamp</a>, rather than a wrapping mode. Using a wrapping mode will force normalized texture coordinates even if <strong>UnnormalizedTextureCoords</strong> is <strong>true</strong>.</p>\n    <p>To access access 1D textures that are wider than 8192 texels, you must use unnormalized texture coordinates.</p>\n    <div><table><tbody>\n<tr><th>\n<!--src=[note.gif]--><img alt=\"Bb313956.note(en-US,XNAGameStudio.30).gif\" src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Bb313956.note(en-US,XNAGameStudio.30).gif\">Note </th></tr>\n<tr><td>To use the <strong>tfetch1D (xvs_3_0, xps_3_0)</strong> instruction in a vertex shader, <strong>UseComputedLOD</strong> must be <strong>false</strong> unless you manually set the gradients and set <strong>UseRegisterGradients</strong> to <strong>true</strong>.</td></tr>\n</tbody></table></div>\n    <a><!----></a><h2>Computing the LOD</h2>\n<div>\n      \n      <p>The total LOD for a sample is additive and is based on what is enabled. The total LOD is determined by the LOD computed in the texture pipeline (if <strong>UseComputedLOD</strong> is <strong>true</strong>), the LOD set by <a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx\">setTexLOD</a> (if <strong>UseRegisterLOD</strong> is <strong>true</strong>), and the <strong>LODBias</strong> value.</p>\n    </div>\n  \n\t</div>\n</div>\n</div></div>\n</div>\n        <hr>\n<br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187935.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.0</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313942.aspx\">Fetch Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx\">tfetch1D (xvs_3_0, xps_3_0)</a><hr>       \n    </div>\n    <div>\n\t\n    <div>\n\t\t<div>\n\t\t\t<span>Tags: </span>\n</div>\n         \n        <div>\n\t        <img src=\"https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\">\n        </div>\n        <div>\n           <span>Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n</form>\n\n\n\n</body>\n</html>",
+  "markdown": "[![Wayback Machine](https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png)](https://web.archive.org/web/ \"Wayback Machine home page\")\n[1 capture](https://web.archive.org/web/20090511231340*/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"See a list of every capture for this URL\")\n11 May 2009\n[ ](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx)\nApr | MAY | Jun  \n---|---|---  \n![Previous capture](https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_off.png) | 11 | ![Next capture](https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png)  \n2008 | 2009 | 2010  \nsuccess\nfail\n[ ](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"Share via My Web Archive\") [ ](https://archive.org/account/login.php \"Sign In\") [](https://help.archive.org/help/category/the-wayback-machine/ \"Get some help using the Wayback Machine\") [](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx#close \"Close the toolbar\")\n[ ](https://web.archive.org/web/20090511231340/http://web.archive.org/screenshot/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"screenshot\") [ ](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"video\") [](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"Share on Facebook\") [](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx \"Share on Twitter\")\n[About this capture](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx#expand)\nCOLLECTED BY\n[Alexa Crawls](https://archive.org/details/alexacrawls)\n[Alexa Internet](http://www.alexa.com/) has been donating their crawl data to the Internet Archive. Flowing in every day, these data are added to the [Wayback Machine](http://web.archive.org/) after an embargo period. \nCollection: [alexa_web_2009](https://archive.org/details/alexa_web_2009)\nTIMESTAMPS\n![loading](https://web-static.archive.org/_static/images/loading.gif)\nThe Wayback Machine - https://web.archive.org/web/20090511231340/http://msdn.microsoft.com:80/en-us/library/bb313956.aspx\nXNA Game Studio 3.0\ntfetch1D (xvs_3_0, xps_3_0)\nFetches sample data from a 1D texture.  ```\ntfetch1D dest, src1, fetchConst [, name = value, ...]\n```\n  \n---  \n# Name-Value Pair \n\n**UnnormalizedTextureCoords** = **bool** \n    If **UnnormalizedTextureCoords** is **true** , texture coordinates should range between 0 and the dimensions of the texture; otherwise, the texture coordinates should range beween 0.0f and 1.0f. The default value is **false**. \n\n**MagFilter** = **enum** \n    \nFilter used when the texture is magnified. **MagFilter** must be one of the following values.\nValue | Description  \n---|---  \npoint | Point filter. The texel with coordinates nearest to the desired pixel value is used.  \nlinear | Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.  \nkeep | Use the filtering set up by Direct3D. This is the default value. \n\n**MinFilter** = **enum** \n      \nFilter used when the texture is minified. **MinFilter** must be one of the following values.\nValue | Description  \n---|---  \npoint | Point filter. The texel with coordinates nearest to the desired pixel value is used.  \nlinear | Bilinear interpolation filter. A weighted average of a 22 area of texels surrounding the desired pixel is used.  \nkeep | Use the filtering set up by Direct3D. This is the default value. \n\n**MipFilter** = **enum** \n      \nFilter used between mipmap levels. **MipFilter** must be one of the following values.\nValue | Description  \n---|---  \npoint | Point filter. The mipmap with coordinates nearest to the desired pixel value is used.  \nlinear | Trilinear interpolation filtering is used as a mipmap filter, using the texels of the two nearest mipmap textures.  \nkeep | Use the filtering set up by Direct3D. This is the default value. \n\n**AnisoFilter** = **enum** \n      \nAnisotropic filter used for minification and magnification. **AnisoFilter** must be one of the following values.\nValue | Description  \n---|---  \ndisabled | No anisotropic filtering.  \nmax1to1 | Use at most 1 sample for anisotropic filtering.  \nmax2to1 | Use at most 2 samples for anisotropic filtering.  \nmax4to1 | Use at most 4 samples for anisotropic filtering.  \nmax8to1 | Use at most 8 samples for anisotropic filtering.  \nmax16to1 | Use at most 16 samples for anisotropic filtering.  \nkeep | Use the anisotropic filtering as set up by Direct3D. This is the default value. \n\n**UseComputedLOD** = **bool** \n    If **UseComputedLOD** is **true** , the shader will use the LOD computed in the texture pipeline. The default value is **true**. For more details, see [Computing the LOD](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx). \n\n**UseRegisterLOD** = **bool** \n    If **UseRegisterLOD** is **true** , the shader will use the LOD set by [setTexLOD](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx). The default value is **false**. For more details, see [Computing the LOD](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx). \n\n**LODBias** = **float** \n    Bias to add to the LOD. The _value_ must be a number between −4.0 and 3.9375. In addition, _value_ must be an integer multiple of 0.0625. The default value is 0.0f. For more details, see [Computing the LOD](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx). \n\n**OffsetX** = **float** \n    Value added to the x-component of the texel address right before sampling. The _value_ must be between −8.0f and 7.5f. In addition, _value_ must be an integer multiple of 0.5f. The default value is 0.0f. \n\n**OffsetY** = **float** \n    Value added to the y-component of the texel address right before sampling. The _value_ must be between −8.0f and 7.5f. In addition, _value_ must be an integer multiple of 0.5f. The default value is 0.0f. \n\n**OffsetZ** = **float** \n    Value added to the z-component of the texel address right before sampling. The _value_ must be between −8.0f and 7.5f. In addition, _value_ must be an integer multiple of 0.5f. The default value is 0.0f. \n\n**FetchValidOnly** = **bool** \n      \nPerformance booster that determines if pixel data should be fetched for pixels outside of the current primitive. The default value is **true**. For vertex shaders, **FetchValidOnly** should always be **true**. For pixel shaders, **FetchValidOnly** should be **true** , unless the result of the **tfetch** instruction is used to calculate a gradient, by using [getGradients](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb464129.aspx) or a **tfetch** instruction with **UseComputedLOD** set to **true**. \nGradient information is calculated by running a 2×2 quad of pixel shaders and computing the difference between the resulting pixels. At the edges of triangles, there are situations where one or more of the pixel shaders in the quad lies outside the boundary of the triangle, and so its computed values won't be output. The **FetchValidOnly** value is used to tell the hardware that it doesn't have to fetch the pixel data for these out-of-bounds pixel shaders. When **FetchValidOnly** is **true** , data will be fetched only for those pixels that are valid (inside the triangle), which speeds up the calculations.\nIn cases where the result of the texture fetch is itself used to calculate gradient information, all four pixel shaders in the quad are necessary to compute the gradients, and **FetchValidOnly** should be set to **false**.\n![](https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/clear.gif) Remarks \nThe _src1_ register specifies the coordinates from which to fetch the sample data.\nIf **UnnormalizedTextureCoords** is **true** , you must set the [AddressU](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.samplerstate.addressu.aspx) texture sampler state to a clamping mode such as [TextureAddressMode.Clamp](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.textureaddressmode.aspx), rather than a wrapping mode. Using a wrapping mode will force normalized texture coordinates even if **UnnormalizedTextureCoords** is **true**.\nTo access access 1D textures that are wider than 8192 texels, you must use unnormalized texture coordinates.\n![Bb313956.note\\(en-US,XNAGameStudio.30\\).gif](https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Bb313956.note\\(en-US,XNAGameStudio.30\\).gif)Note   \n---  \nTo use the **tfetch1D (xvs_3_0, xps_3_0)** instruction in a vertex shader, **UseComputedLOD** must be **false** unless you manually set the gradients and set **UseRegisterGradients** to **true**.  \n## Computing the LOD\nThe total LOD for a sample is additive and is based on what is enabled. The total LOD is determined by the LOD computed in the texture pipeline (if **UseComputedLOD** is **true**), the LOD set by [setTexLOD](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313955.aspx) (if **UseRegisterLOD** is **true**), and the **LODBias** value.\n* * *\n  \n[MSDN Library](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/ms123401.aspx)  \n[Development Tools and Languages](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187916.aspx)  \n[XNA Game Studio](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/aa187935.aspx)  \n[XNA Game Studio 3.0](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb200104.aspx)  \n[Programming Guide](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb198548.aspx)  \n[Hardware and Platforms](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb975657.aspx)  \n[Xbox 360 Programming](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb417501.aspx)  \n[Microcode (xvs_3_0, xps_3_0)](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313877.aspx)  \n[Microcode Instructions (xvs_3_0, xps_3_0)](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313961.aspx)  \n[Fetch Instructions (xvs_3_0, xps_3_0)](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313942.aspx)  \n[tfetch1D (xvs_3_0, xps_3_0)](https://web.archive.org/web/20090511231340/http://msdn.microsoft.com/en-us/library/bb313956.aspx)\n* * *\nTags: \n![](https://web.archive.org/web/20090511231340im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif)\nCommunity Content\n",
+  "metadata": {
+    "title": "tfetch1D (xvs_3_0, xps_3_0)",
+    "description": null,
+    "keywords": "tfetch1D",
+    "author": null
+  },
+  "links": {
+    "internal": [
+      {
+        "href": "https://web.archive.org/web",
+        "text": "",
+        "title": "Wayback Machine home page",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340%2A/http%3A//msdn.microsoft.com/en-us/library/bb313956.aspx",
+        "text": "1 capture",
+        "title": "See a list of every capture for this URL",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313956.aspx",
+        "text": "",
+        "title": "Share via My Web Archive",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://archive.org/account/login.php",
+        "text": "",
+        "title": "Sign In",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://help.archive.org/help/category/the-wayback-machine",
+        "text": "",
+        "title": "Get some help using the Wayback Machine",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//web.archive.org/screenshot/http%3A//msdn.microsoft.com/en-us/library/bb313956.aspx",
+        "text": "",
+        "title": "screenshot",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://archive.org/details/alexacrawls",
+        "text": "Alexa Crawls",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "http://web.archive.org/",
+        "text": "Wayback Machine",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://archive.org/details/alexa_web_2009",
+        "text": "alexa_web_2009",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313955.aspx",
+        "text": "setTexLOD",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb464129.aspx",
+        "text": "getGradients",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.samplerstate.addressu.aspx",
+        "text": "AddressU",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/microsoft.xna.framework.graphics.textureaddressmode.aspx",
+        "text": "TextureAddressMode.Clamp",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/ms123401.aspx",
+        "text": "MSDN Library",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/aa187916.aspx",
+        "text": "Development Tools and Languages",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/aa187935.aspx",
+        "text": "XNA Game Studio",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb200104.aspx",
+        "text": "XNA Game Studio 3.0",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb198548.aspx",
+        "text": "Programming Guide",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb975657.aspx",
+        "text": "Hardware and Platforms",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb417501.aspx",
+        "text": "Xbox 360 Programming",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313877.aspx",
+        "text": "Microcode (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313961.aspx",
+        "text": "Microcode Instructions (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20090511231340/http%3A//msdn.microsoft.com/en-us/library/bb313942.aspx",
+        "text": "Fetch Instructions (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      }
+    ],
+    "external": [
+      {
+        "href": "http://www.alexa.com/",
+        "text": "Alexa Internet",
+        "title": "",
+        "base_domain": "alexa.com",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      }
+    ]
+  },
+  "media": {
+    "images": [
+      {
+        "src": "https://web-static.archive.org/_static/images/toolbar/wm_tb_prv_off.png",
+        "data": "",
+        "alt": "Previous capture",
+        "desc": "11",
+        "score": 3,
+        "type": "image",
+        "group_id": 1,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "https://web-static.archive.org/_static/images/toolbar/wm_tb_nxt_off.png",
+        "data": "",
+        "alt": "Next capture",
+        "desc": "11",
+        "score": 3,
+        "type": "image",
+        "group_id": 2,
+        "format": "png",
+        "width": null
+      },
+      {
+        "src": "https://web-static.archive.org/_static/images/loading.gif",
+        "data": "",
+        "alt": "loading",
+        "desc": "TIMESTAMPS",
+        "score": 3,
+        "type": "image",
+        "group_id": 3,
+        "format": "gif",
+        "width": null
+      }
+    ],
+    "videos": [],
+    "audios": []
+  },
+  "word_count": 1105
+}

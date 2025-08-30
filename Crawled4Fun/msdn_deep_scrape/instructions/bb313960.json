@@ -1,0 +1,161 @@
+{
+  "url": "https://web.archive.org/web/20100423061946/http%3A//msdn.microsoft.com/en-us/library/bb313960.aspx",
+  "original_url": "https://web.archive.org/web/20100423061946/http%3A//msdn.microsoft.com/en-us/library/bb313960.aspx",
+  "title": "vfetch (xvs_3_0, xps_3_0)",
+  "status_code": 302,
+  "success": true,
+  "scraped_at": 1756584773.609956,
+  "category": "instruction",
+  "html": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\" style=\"--wm-toolbar-height: 129px;\"><head id=\"ctl00_Head1\"><script src=\"//archive.org/includes/athena.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app204.us.archive.org';v.server_ms=516;archive_analytics.send_pageview({});});</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/bundle-playback.js?v=FC38Hc5A\" charset=\"utf-8\"></script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/wombat.js?v=txqj7nKC\" charset=\"utf-8\"></script>\n<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={\"autoplay\":\"on\",\"unmuteOverlay\":\"hidden\",\"showSwfDownload\":true};</script>\n<script type=\"text/javascript\" src=\"https://web-static.archive.org/_static/js/ruffle/ruffle.js\"></script>\n<script type=\"text/javascript\">\n    __wm.init(\"https://web.archive.org/web\");\n  __wm.wombat(\"http://msdn.microsoft.com:80/en-us/library/bb313960.aspx\",\"20100302145413\",\"https://web.archive.org/\",\"web\",\"https://web-static.archive.org/_static/\",\n\t      \"1267541653\");\n</script>\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\">\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\">\n<!-- End Wayback Rewrite JS Include -->\n<meta name=\"NormalizedUrl\" content=\"http://msdn.microsoft.com/en-us/library(d=robot)/bb313960(l=en-us,v=XNAGameStudio.31).aspx\"><meta name=\"VotingContextUrl\" content=\"http://msdn.microsoft.com/en-us/library(d=robot)/bb313960(l=en-us,v=XNAGameStudio.31).aspx\"><meta name=\"MN\" content=\"D1DC116E-6:54:13 AM\"><meta name=\"ms.locale\" content=\"en-us\"><meta name=\"Search.ShortId\" content=\"bb313960\"><meta name=\"MSHKeywordK\" content=\"vfetch\">\n<meta name=\"Search.MSHKeywordK\" content=\"vfetch\">\n<meta name=\"MSHKeywordK\" content=\"vertex buffer data, semantic\">\n<meta name=\"Search.MSHKeywordK\" content=\"vertex buffer data, semantic\">\n<meta name=\"MSHKeywordK\" content=\"semantic, vertex buffer data\">\n<meta name=\"Search.MSHKeywordK\" content=\"semantic, vertex buffer data\">\n<meta name=\"MSHAttr\" content=\"AssetID:38314c9f-aafb-d3e1-14f1-fc4ddda25d37\">\n<meta name=\"Search.MSHAttr.AssetID\" content=\"38314c9f-aafb-d3e1-14f1-fc4ddda25d37\">\n<meta name=\"MSHAttr\" content=\"Locale:en-us\">\n<meta name=\"Search.MSHAttr.Locale\" content=\"en-us\">\n<meta name=\"MSHAttr\" content=\"CommunityContent:1\">\n<meta name=\"Search.MSHAttr.CommunityContent\" content=\"1\">\n<meta name=\"MSHAttr\" content=\"TopicType:kbOrient\">\n<meta name=\"Search.MSHAttr.TopicType\" content=\"kbOrient\">\n<meta name=\"MSHAttr\" content=\"DocSet:XNA\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSet:ExpressLibVS\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"ExpressLibVS\">\n<meta name=\"MSHAttr\" content=\"DocSet:C#\">\n<meta name=\"Search.MSHAttr.DocSet\" content=\"C#\">\n<meta name=\"MSHAttr\" content=\"ProjType:LocalProj\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"LocalProj\">\n<meta name=\"MSHAttr\" content=\"ProjType:XNA_31\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"XNA_31\">\n<meta name=\"MSHAttr\" content=\"ProjType:XNA_30\">\n<meta name=\"Search.MSHAttr.ProjType\" content=\"XNA_30\">\n<meta name=\"MSHAttr\" content=\"Technology:XNA\">\n<meta name=\"Search.MSHAttr.Technology\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSetTitle:XNA\">\n<meta name=\"Search.MSHAttr.DocSetTitle\" content=\"XNA\">\n<meta name=\"MSHAttr\" content=\"DocSetRoot:Bb313960\">\n<meta name=\"Search.MSHAttr.DocSetRoot\" content=\"Bb313960\">\n<meta name=\"save\" content=\"history\">\n<meta name=\"Search.save\" content=\"history\">\n<meta name=\"keywords\" content=\"vfetch,vertex buffer data, semantic,semantic, vertex buffer data\">\n<meta name=\"Search.MSCategory\" content=\"ms310247\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310247MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310249\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310249MSCategory10\">\n<meta name=\"Search.MSCategory\" content=\"ms310241\">\n<meta name=\"Search.MSCategoryV\" content=\"ms310241MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa187916\">\n<meta name=\"Search.MSCategoryV\" content=\"aa187916MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"aa139594\">\n<meta name=\"Search.MSCategoryV\" content=\"aa139594MSDN10\">\n<meta name=\"Search.MSCategory\" content=\"dd253701\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253701XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd253708\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253708XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd253710\">\n<meta name=\"Search.MSCategoryV\" content=\"dd253710XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282526\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282526XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282529\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282529XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282530\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282530XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"dd282534\">\n<meta name=\"Search.MSCategoryV\" content=\"dd282534XNAGameStudio31\">\n<meta name=\"Search.MSCategory\" content=\"bb313960\">\n<meta name=\"Search.MSCategoryV\" content=\"bb313960XNAGameStudio31\">\n<meta name=\"Search.TocNodeId\" content=\"bb313960\">\n<meta name=\"MSHAttr\" content=\"Rating:0.000\">\n<meta name=\"Search.Rating\" content=\"0\">\n<meta name=\"MSMETANRatingMSMETAV\" content=\"0\">\n<meta name=\"Search.RootTocId\" content=\"ms310241\"><meta name=\"MSHAttr\" content=\"ShippedIn:XNAGameStudio.31\"><meta name=\"Search.ShippedIn\" content=\"XNAGameStudio31\"><meta name=\"Search.GuidIdentifier\" content=\"38314c9f-aafb-d3e1-14f1-fc4ddda25d37\"><link rel=\"stylesheet\" type=\"text/css\" href=\"https://web.archive.org/web/20100302145413cs_/http://i3.msdn.microsoft.com/en-us/library/mtps-bn20100217.css?l=en-us&amp;i=library&amp;ct=CrawlerNav;MtDisclaimer;WikiViewer&amp;clustimg=1\"><title>\n\tvfetch (xvs_3_0, xps_3_0)\n</title></head>\n<body id=\"ctl00_body1\" dir=\"ltr\"><!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<script>__wm.rw(0);</script>\n<div id=\"wm-ipp-base\" lang=\"en\" style=\"display: block; direction: ltr; height: 129px;\" toolbar-mode=\"auto\">\n</div><div id=\"wm-ipp-print\">The Wayback Machine - https://web.archive.org/web/20100302145413/http://msdn.microsoft.com:80/en-us/library/bb313960.aspx</div>\n<script type=\"text/javascript\">//<![CDATA[\n__wm.bt(750,27,25,2,\"web\",\"http://msdn.microsoft.com/en-us/library/bb313960.aspx\",\"20100302145413\",1996,\"https://web-static.archive.org/_static/\",[\"https://web-static.archive.org/_static/css/banner-styles.css?v=p7PEIJWi\",\"https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv\"], false);\n  __wm.rw(1);\n//]]></script>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form name=\"aspnetForm\" method=\"post\" action=\"bb313960.aspx\" id=\"aspnetForm\">\n<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\" value=\"/wEPDwUBMGRk9fo2u6sAqapv5HtNATug6rd+gms=\">\n\n\n<script src=\"https://web.archive.org/web/20100302145413js_/http://i2.msdn.microsoft.com/platform/cjs/extract/compositejscript2.js\" type=\"text/javascript\"></script>\n    \n    <div>\n        \n        <!--starting processing--><div class=\"topic\"><div class=\"majorTitle\">XNA Game Studio 3.1<!----></div><div class=\"title\">vfetch (xvs_3_0, xps_3_0)<!----></div><!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div id=\"mainSection\"><div id=\"mainBody\">\n  \n  \n  Fetches data from a vertex buffer using a semantic.\n  <table>\n    <tbody><tr><td>\n        <pre>vfetch dest, src1, Semantic [, name = value, ...]</pre>\n      </td></tr>\n  </tbody></table>\n  <a id=\"ID4E5\"><!----></a><h1 class=\"heading\">Name-Value Pair</h1><div id=\"ID4E51\" class=\"hxnx1\">\n    \n    <dl class=\"glossary\">\n      <dt>\n        <strong>RoundIndex</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>RoundIndex</strong> is <strong>true</strong>, the <em>src1</em> index value is rounded to the nearest integer; otherwise, the <em>src1</em> index value is floored. The default value is <strong>false</strong>.</dd>      \n      <dt>\n        <strong>ExpAdjust</strong> = <strong>int</strong>\n      </dt>\n      <dd>Data multiplier. This value must be an integer between −32 and 31. The fetched vertex data is multiplied by two raised to the <strong>ExpAdjust</strong> value. The default value is 0 (the data is multiplied by one—no change).</dd>      \n      <dt>\n        <strong>UseTextureCache</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseTextureCache</strong> is <strong>true</strong>, the <strong>vfetch (xvs_3_0, xps_3_0)</strong> instruction caches its data in the texture cache; otherwise, the instruction caches its data in the vertex cachce. The default value is <strong>false</strong>.</dd>\n    </dl>\n  </div>\n</div></div></div>\n        <hr><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa139594.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.1</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313942.aspx\">Fetch Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313960.aspx\">vfetch (xvs_3_0, xps_3_0)</a><hr>       \n    </div>\n    <div id=\"ctl00_WikiViewer1_cc\" class=\"wv_cc\">\n\t\n    <div id=\"ctl00_WikiViewer1_ccContainer\">\n\t\t<div class=\"wv_ccTopicTags\">\n\t\t\t<span class=\"wv_ccTitle\">Tags:&nbsp;</span><span></span>\n\t\t</div>\n        &nbsp;\n        <div class=\"wv_cclogo\">\n\t        <img id=\"ctl00_WikiViewer1_WikiLogo\" src=\"https://web.archive.org/web/20100302145413im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\" border=\"0\">\n        </div>\n        <div class=\"wv_cch\">\n           <span id=\"ctl00_WikiViewer1_CC_Title\">Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n<div id=\"ctl00_WikiViewer1_wikiItems\">\n\n</div>\n       <script type=\"text/javascript\" src=\"https://web.archive.org/web/20100302145413js_/http://i2.msdn.microsoft.com/en-us/library/mtps-bn20100217.js?l=en-us&amp;i=library&amp;ct=CrawlerNav;MtDisclaimer;WikiViewer\"></script>  \n    \n\n<script type=\"text/javascript\">\n//<![CDATA[\nSys.Application.initialize();\n//]]>\n</script>\n</form>\n\n\n\n</body></html>",
+  "cleaned_html": "<html>\n<head>\n<!-- End Wayback Rewrite JS Include -->\n<title>\n\tvfetch (xvs_3_0, xps_3_0)\n</title>\n</head>\n<body>\n<!-- BEGIN WAYBACK TOOLBAR INSERT -->\n<div>The Wayback Machine - https://web.archive.org/web/20100302145413/http://msdn.microsoft.com:80/en-us/library/bb313960.aspx</div>\n<!-- END WAYBACK TOOLBAR INSERT -->\n \n    <form>\n<input>\n\n\n<div>\n        \n        <!--starting processing--><div>\n<div>XNA Game Studio 3.1<!---->\n</div>\n<div>vfetch (xvs_3_0, xps_3_0)<!---->\n</div>\n<!--Content type: DocStudio. Transform: devdiv2mtps.xslt.--><div><div>\n  \n  \n  Fetches data from a vertex buffer using a semantic.\n  <table>\n    <tbody>\n<tr><td>\n        <pre>vfetch dest, src1, Semantic [, name = value, ...]</pre>\n      </td></tr>\n  </tbody>\n</table>\n  <a><!----></a><h1>Name-Value Pair</h1>\n<div>\n    \n    <dl>\n      <dt>\n        <strong>RoundIndex</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>RoundIndex</strong> is <strong>true</strong>, the <em>src1</em> index value is rounded to the nearest integer; otherwise, the <em>src1</em> index value is floored. The default value is <strong>false</strong>.</dd>      \n      <dt>\n        <strong>ExpAdjust</strong> = <strong>int</strong>\n      </dt>\n      <dd>Data multiplier. This value must be an integer between −32 and 31. The fetched vertex data is multiplied by two raised to the <strong>ExpAdjust</strong> value. The default value is 0 (the data is multiplied by one—no change).</dd>      \n      <dt>\n        <strong>UseTextureCache</strong> = <strong>bool</strong>\n      </dt>\n      <dd>If <strong>UseTextureCache</strong> is <strong>true</strong>, the <strong>vfetch (xvs_3_0, xps_3_0)</strong> instruction caches its data in the texture cache; otherwise, the instruction caches its data in the vertex cachce. The default value is <strong>false</strong>.</dd>\n    </dl>\n  </div>\n</div></div>\n</div>\n        <hr>\n<br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/ms123401.aspx\">MSDN Library</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa187916.aspx\">Development Tools and Languages</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa139594.aspx\">XNA Game Studio</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb200104.aspx\">XNA Game Studio 3.1</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb198548.aspx\">Programming Guide</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb975657.aspx\">Hardware and Platforms</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb417501.aspx\">Xbox 360 Programming</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313877.aspx\">Microcode (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313961.aspx\">Microcode Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313942.aspx\">Fetch Instructions (xvs_3_0, xps_3_0)</a><br><a href=\"https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313960.aspx\">vfetch (xvs_3_0, xps_3_0)</a><hr>       \n    </div>\n    <div>\n\t\n    <div>\n\t\t<div>\n\t\t\t<span>Tags: </span>\n</div>\n         \n        <div>\n\t        <img src=\"https://web.archive.org/web/20100302145413im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif\">\n        </div>\n        <div>\n           <span>Community Content</span>\n        </div>\n    \n\t</div>\n\n</div>\n</form>\n\n\n\n</body>\n</html>",
+  "markdown": "The Wayback Machine - https://web.archive.org/web/20100302145413/http://msdn.microsoft.com:80/en-us/library/bb313960.aspx\nXNA Game Studio 3.1\nvfetch (xvs_3_0, xps_3_0)\nFetches data from a vertex buffer using a semantic.  ```\nvfetch dest, src1, Semantic [, name = value, ...]\n```\n  \n---  \n# Name-Value Pair \n\n**RoundIndex** = **bool** \n    If **RoundIndex** is **true** , the _src1_ index value is rounded to the nearest integer; otherwise, the _src1_ index value is floored. The default value is **false**. \n\n**ExpAdjust** = **int** \n    Data multiplier. This value must be an integer between −32 and 31. The fetched vertex data is multiplied by two raised to the **ExpAdjust** value. The default value is 0 (the data is multiplied by one—no change). \n\n**UseTextureCache** = **bool** \n    If **UseTextureCache** is **true** , the **vfetch (xvs_3_0, xps_3_0)** instruction caches its data in the texture cache; otherwise, the instruction caches its data in the vertex cachce. The default value is **false**.\n* * *\n  \n[MSDN Library](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/ms123401.aspx)  \n[Development Tools and Languages](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa187916.aspx)  \n[XNA Game Studio](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/aa139594.aspx)  \n[XNA Game Studio 3.1](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb200104.aspx)  \n[Programming Guide](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb198548.aspx)  \n[Hardware and Platforms](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb975657.aspx)  \n[Xbox 360 Programming](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb417501.aspx)  \n[Microcode (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313877.aspx)  \n[Microcode Instructions (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313961.aspx)  \n[Fetch Instructions (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313942.aspx)  \n[vfetch (xvs_3_0, xps_3_0)](https://web.archive.org/web/20100302145413/http://msdn.microsoft.com/en-us/library/bb313960.aspx)\n* * *\nTags: \n![](https://web.archive.org/web/20100302145413im_/http://i.msdn.microsoft.com/Global/Images/wiki.gif)\nCommunity Content\n",
+  "metadata": {
+    "title": "vfetch (xvs_3_0, xps_3_0)",
+    "description": null,
+    "keywords": "vfetch,vertex buffer data, semantic,semantic, vertex buffer data",
+    "author": null
+  },
+  "links": {
+    "internal": [
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/ms123401.aspx",
+        "text": "MSDN Library",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/aa187916.aspx",
+        "text": "Development Tools and Languages",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/aa139594.aspx",
+        "text": "XNA Game Studio",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb200104.aspx",
+        "text": "XNA Game Studio 3.1",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb198548.aspx",
+        "text": "Programming Guide",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb975657.aspx",
+        "text": "Hardware and Platforms",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb417501.aspx",
+        "text": "Xbox 360 Programming",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb313877.aspx",
+        "text": "Microcode (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb313961.aspx",
+        "text": "Microcode Instructions (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb313942.aspx",
+        "text": "Fetch Instructions (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      },
+      {
+        "href": "https://web.archive.org/web/20100302145413/http%3A//msdn.microsoft.com/en-us/library/bb313960.aspx",
+        "text": "vfetch (xvs_3_0, xps_3_0)",
+        "title": "",
+        "base_domain": "archive.org",
+        "head_data": null,
+        "head_extraction_status": null,
+        "head_extraction_error": null,
+        "intrinsic_score": 0.0,
+        "contextual_score": null,
+        "total_score": null
+      }
+    ],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "word_count": 186
+}
