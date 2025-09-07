@@ -1,0 +1,27 @@
+{
+  "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/addinfo/Out-of-Order_execution.pdf",
+  "title": "404 Not Found",
+  "status_code": 404,
+  "success": true,
+  "scraped_at": 1757220139.5566132,
+  "category": "reference",
+  "html": "<!DOCTYPE html PUBLIC \"-//IETF//DTD HTML 2.0//EN\"><html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.62 (Debian) Server at iis-people.ee.ethz.ch Port 80</address>\n\n</body></html>",
+  "cleaned_html": "<html>\n<head>\n<title>404 Not Found</title>\n</head>\n<body>\n<h1>Not Found</h1>\n<p>The requested URL was not found on this server.</p>\n<hr>\n<address>Apache/2.4.62 (Debian) Server at iis-people.ee.ethz.ch Port 80</address>\n\n</body>\n</html>",
+  "markdown": "# Not Found\nThe requested URL was not found on this server.\n* * *\nApache/2.4.62 (Debian) Server at iis-people.ee.ethz.ch Port 80\n",
+  "metadata": {
+    "title": "404 Not Found",
+    "description": null,
+    "keywords": null,
+    "author": null
+  },
+  "links": {
+    "internal": [],
+    "external": []
+  },
+  "media": {
+    "images": [],
+    "videos": [],
+    "audios": []
+  },
+  "word_count": 22
+}

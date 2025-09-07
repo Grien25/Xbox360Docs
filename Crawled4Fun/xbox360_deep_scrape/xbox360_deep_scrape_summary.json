@@ -1,0 +1,1173 @@
+{
+  "scrape_info": {
+    "total_pages_scraped": 35,
+    "main_pages": 1,
+    "reference_pages": 18,
+    "console_pages": 16,
+    "total_word_count": 279426,
+    "scrape_completed_at": 1757220174.3526962,
+    "source_url": "https://www.copetti.org/writings/consoles/xbox-360/"
+  },
+  "reference_links": [
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0F4P5RB25?binding=paperback",
+      "title": "here",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0B5VM3NHS",
+      "title": "Amazon Kindle",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://books.apple.com/us/author/rodrigo-copetti/id1632545359?see-all=books",
+      "title": "Apple Books",
+      "domain": "books.apple.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.kobo.com/us/en/search?fcsearchfield=Series&query=Architecture+of+Consoles%3A+A+Practical+Analysis&seriesid=7e46f843-4aee-53b4-97c2-82782e951af5",
+      "title": "Kobo",
+      "domain": "www.kobo.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PjVhXzDT8nI",
+      "title": "How to update any LiteOn to iXtreme LT+ 2.0 (phat xbox 360)",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JyYdL4L6vwE",
+      "title": "Reset glitch hack on slim by GliGli | homebrew-connection.org",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/DrSchottky/R-JTOP",
+      "title": "R-JTOP",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MeWGSF71Big",
+      "title": "RGH1.2 V2 on TRINITY SLIM XBOX 360!",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/X360Tools/NandChipEnableGlitch",
+      "title": "NandChipEnableGlitch",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20071024030506/http%3A//www.microsoft.com/presspass/press/1999/Aug99/WM4Lnchpr.mspx",
+      "title": "Windows media technologies 4 delivers cutting-edge CD-quality audio on the internet",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/directshow/using-windows-media-in-directshow",
+      "title": "Using windows media in DirectShow",
+      "domain": "docs.microsoft.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20120208052530/http%3A//domino.research.ibm.com/comm/research.nsf/pages/r.arch.simd.html",
+      "title": "Using data-parallel SIMD architecture in video games and supercomputers",
+      "domain": "web.archive.org",
+      "scraped": true
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/dxtecharts/coding-for-multiple-cores",
+      "title": "Coding for multicore on xbox 360 and windows",
+      "domain": "docs.microsoft.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20090202023827/http%3A//www.ibm.com/developerworks/power/library/pa-fpfxbox",
+      "title": "Just like being there: Papers from the fall processor forum 2005: Application-customized CPU design",
+      "domain": "web.archive.org",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uxjpmc8ZIxM",
+      "title": "The xbox 360 security system and its weaknesses",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/e/466/files/2012/09/mpglecture18f11_archcomp_4up.pdf",
+      "title": "Architectural comparison: Xbox 360 vs. Playstation 3",
+      "domain": "cpn-us-w2.wpmucdn.com",
+      "scraped": false
+    },
+    {
+      "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/addinfo/Out-of-Order_execution.pdf",
+      "title": "Out-of-order execution",
+      "domain": "iis-people.ee.ethz.ch",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1647",
+      "title": "Understanding the cell microprocessor",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1910/4",
+      "title": "Intel’s pentium extreme edition 955: 65nm, 4 threads and 376M transistors",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.extremetech.com/extreme/75294-intels-pentium-d-price-half-that-of-amds-x2",
+      "title": "Intel’s pentium d price half that of AMD’s X2",
+      "domain": "www.extremetech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203938%28v%3Dxnagamestudio.41%29",
+      "title": "Xbox 360 programming considerations",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203912%28v%3Dxnagamestudio.41%29",
+      "title": ".NET compact framework for xbox 360",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/libxenon",
+      "title": "LibXenon",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.eurogamer.net/digitalfoundry-1gb-360-disc-upgrade",
+      "title": "Source: Xbox new disc format gains 1GB",
+      "domain": "www.eurogamer.net",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NrvCTPRFN98",
+      "title": "Xbox live marketplace (peter moore’s demonstration)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VKy9OrCtpyk",
+      "title": "Dashboard: Xbox 360 fall update walkthrough",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bYSsYLDMARc",
+      "title": "I bought an xbox 360 HD DVD player from eBay... These still exist in 2019??",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_c9F6yXFpDo",
+      "title": "Xbox 360 HD-DVD drive review",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://gizmodo.com/microsoft-xbox-360-hd-dvd-player-officially-discontinue-360054",
+      "title": "Microsoft xbox 360 HD DVD player officially discontinued",
+      "domain": "gizmodo.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.anandtech.com/show/1062",
+      "title": "NVIDIA GeForce FX 5800 ultra: It’s here, but is it good?",
+      "domain": "www.anandtech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?oldid=1067322126&title=Xenos_%28graphics_chip%29",
+      "title": "Xenos (graphics chip)",
+      "domain": "en.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.beyond3d.com/content/articles/4",
+      "title": "ATI xenos: Xbox 360 graphics demystified",
+      "domain": "www.beyond3d.com",
+      "scraped": false
+    },
+    {
+      "url": "http://www.khronos.org/opengl/wiki_opengl/index.php?oldid=14895&title=History_of_OpenGL",
+      "title": "History of OpenGL",
+      "domain": "www.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/direct3d9/rendering-from-vertex-and-index-buffers",
+      "title": "Rendering from vertex and index buffers (Direct3D 9)",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb464139%28v%3Dxnagamestudio.41%29",
+      "title": "Predicated tiling",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://registry.khronos.org/OpenGL/extensions/EXT/EXT_packed_float.txt",
+      "title": "EXT_packed_float",
+      "domain": "registry.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9J8QAoarIrE",
+      "title": "HIP16-TALK security offense and defense strategies",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KMYMp4tQd98",
+      "title": "Xbox 360 accesories - official microsoft 2006 promotional video",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/xell-reloaded/blob/1e2639c1050e74ab477aa190fb6a6f7ca93eec72/source/lv1/main.c",
+      "title": "lv1/main.c (xell reloaded)",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/TEIR1plus2/Xbox-Reversing",
+      "title": "Xbox-reversing",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1P5gTvXct30",
+      "title": "Xbox 360 blades dashboard (2.0.5766.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AZYhri2tsM4",
+      "title": "Xbox 360 original blades dashboard HD",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Twtx8vC3fY",
+      "title": "Exploring the xbox 360 NXE dashboard in 2021!",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ucJoSC29UL8",
+      "title": "Xbox 360 NXE dashboard (2.0.8498.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t55__eGFd_s",
+      "title": "Xbox 360 kinect dashboard (2.0.13599.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.cnet.com/pictures/hotmail-through-the-ages-images",
+      "title": "Hotmail through the ages (images)",
+      "domain": "www.cnet.com",
+      "scraped": false
+    },
+    {
+      "url": "https://tr.wikipedia.org/wiki/Dosya%3AWindows-live-mail-windows-10.jpg",
+      "title": "Windows live mail screenshot",
+      "domain": "tr.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=olTeUQbIjoU",
+      "title": "Xbox 360 dashboard update 2012 tour",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles/commits/master/articles/xbox-360.Rmd.md",
+      "title": "commit log",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0F4P5RB25?binding=paperback",
+      "title": "https://www.amazon.com/dp/B0F4P5RB25?binding=paperback",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0B5VM3NHS",
+      "title": "https://www.amazon.com/dp/B0B5VM3NHS",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://books.apple.com/us/author/rodrigo-copetti/id1632545359?see-all=books",
+      "title": "https://books.apple.com/us/author/rodrigo-copetti/id1632545359?see-all=books",
+      "domain": "books.apple.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.kobo.com/us/en/search?query=Architecture+of+Consoles%3a+A+Practical+Analysis&fcsearchfield=Series&seriesId=7e46f843-4aee-53b4-97c2-82782e951af5",
+      "title": "https://www.kobo.com/us/en/search?query=Architecture+of+Consoles%3a+A+Practical+Analysis&fcsearchfield=Series&seriesId=7e46f843-4aee-53b4-97c2-82782e951af5",
+      "domain": "www.kobo.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PjVhXzDT8nI",
+      "title": "https://www.youtube.com/watch?v=PjVhXzDT8nI",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JyYdL4L6vwE",
+      "title": "https://www.youtube.com/watch?v=JyYdL4L6vwE",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/DrSchottky/R-JTOP",
+      "title": "https://github.com/DrSchottky/R-JTOP",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MeWGSF71Big",
+      "title": "https://www.youtube.com/watch?v=MeWGSF71Big",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/X360Tools/NandChipEnableGlitch",
+      "title": "https://github.com/X360Tools/NandChipEnableGlitch",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20071024030506/http://www.microsoft.com/presspass/press/1999/Aug99/WM4Lnchpr.mspx",
+      "title": "https://web.archive.org/web/20071024030506/http://www.microsoft.com/presspass/press/1999/Aug99/WM4Lnchpr.mspx",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/directshow/using-windows-media-in-directshow/",
+      "title": "https://docs.microsoft.com/en-us/windows/win32/directshow/using-windows-media-in-directshow/",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://web.archive.org/web/20120208052530/http://domino.research.ibm.com/comm/research.nsf/pages/r.arch.simd.html",
+      "title": "https://web.archive.org/web/20120208052530/http://domino.research.ibm.com/comm/research.nsf/pages/r.arch.simd.html",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/dxtecharts/coding-for-multiple-cores",
+      "title": "https://docs.microsoft.com/en-us/windows/win32/dxtecharts/coding-for-multiple-cores",
+      "domain": "docs.microsoft.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20090202023827/http://www.ibm.com/developerworks/power/library/pa-fpfxbox/",
+      "title": "https://web.archive.org/web/20090202023827/http://www.ibm.com/developerworks/power/library/pa-fpfxbox/",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uxjpmc8ZIxM",
+      "title": "https://www.youtube.com/watch?v=uxjpmc8ZIxM",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/e/466/files/2012/09/mpglecture18f11_archcomp_4up.pdf",
+      "title": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/e/466/files/2012/09/mpglecture18f11_archcomp_4up.pdf",
+      "domain": "cpn-us-w2.wpmucdn.com",
+      "scraped": false
+    },
+    {
+      "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/addinfo/Out-of-Order_execution.pdf",
+      "title": "https://iis-people.ee.ethz.ch/~gmichi/asocd/addinfo/Out-of-Order_execution.pdf",
+      "domain": "iis-people.ee.ethz.ch",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1647",
+      "title": "https://www.anandtech.com/show/1647",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1910/4",
+      "title": "https://www.anandtech.com/show/1910/4",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.extremetech.com/extreme/75294-intels-pentium-d-price-half-that-of-amds-x2",
+      "title": "https://www.extremetech.com/extreme/75294-intels-pentium-d-price-half-that-of-amds-x2",
+      "domain": "www.extremetech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203938%28v=xnagamestudio.41%29",
+      "title": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203938%28v=xnagamestudio.41%29",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203912%28v=xnagamestudio.41%29",
+      "title": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203912%28v=xnagamestudio.41%29",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/libxenon",
+      "title": "https://github.com/Free60Project/libxenon",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.eurogamer.net/digitalfoundry-1gb-360-disc-upgrade",
+      "title": "https://www.eurogamer.net/digitalfoundry-1gb-360-disc-upgrade",
+      "domain": "www.eurogamer.net",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NrvCTPRFN98",
+      "title": "https://www.youtube.com/watch?v=NrvCTPRFN98",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VKy9OrCtpyk",
+      "title": "https://www.youtube.com/watch?v=VKy9OrCtpyk",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bYSsYLDMARc",
+      "title": "https://www.youtube.com/watch?v=bYSsYLDMARc",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_c9F6yXFpDo",
+      "title": "https://www.youtube.com/watch?v=_c9F6yXFpDo",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://gizmodo.com/microsoft-xbox-360-hd-dvd-player-officially-discontinue-360054",
+      "title": "https://gizmodo.com/microsoft-xbox-360-hd-dvd-player-officially-discontinue-360054",
+      "domain": "gizmodo.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.anandtech.com/show/1062",
+      "title": "https://www.anandtech.com/show/1062",
+      "domain": "www.anandtech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?title=Xenos_%28graphics_chip%29&oldid=1067322126",
+      "title": "https://en.wikipedia.org/w/index.php?title=Xenos_%28graphics_chip%29&oldid=1067322126",
+      "domain": "en.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.beyond3d.com/content/articles/4",
+      "title": "https://www.beyond3d.com/content/articles/4",
+      "domain": "www.beyond3d.com",
+      "scraped": false
+    },
+    {
+      "url": "http://www.khronos.org/opengl/wiki_opengl/index.php?title=History_of_OpenGL&oldid=14895",
+      "title": "http://www.khronos.org/opengl/wiki_opengl/index.php?title=History_of_OpenGL&oldid=14895",
+      "domain": "www.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/direct3d9/rendering-from-vertex-and-index-buffers",
+      "title": "https://docs.microsoft.com/en-us/windows/win32/direct3d9/rendering-from-vertex-and-index-buffers",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb464139%28v=xnagamestudio.41%29",
+      "title": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb464139%28v=xnagamestudio.41%29",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://registry.khronos.org/OpenGL/extensions/EXT/EXT_packed_float.txt",
+      "title": "https://registry.khronos.org/OpenGL/extensions/EXT/EXT_packed_float.txt",
+      "domain": "registry.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9J8QAoarIrE",
+      "title": "https://www.youtube.com/watch?v=9J8QAoarIrE",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KMYMp4tQd98",
+      "title": "https://www.youtube.com/watch?v=KMYMp4tQd98",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/xell-reloaded/blob/1e2639c1050e74ab477aa190fb6a6f7ca93eec72/source/lv1/main.c",
+      "title": "https://github.com/Free60Project/xell-reloaded/blob/1e2639c1050e74ab477aa190fb6a6f7ca93eec72/source/lv1/main.c",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/TEIR1plus2/Xbox-Reversing",
+      "title": "https://github.com/TEIR1plus2/Xbox-Reversing",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1P5gTvXct30",
+      "title": "https://www.youtube.com/watch?v=1P5gTvXct30",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AZYhri2tsM4",
+      "title": "https://www.youtube.com/watch?v=AZYhri2tsM4",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Twtx8vC3fY",
+      "title": "https://www.youtube.com/watch?v=4Twtx8vC3fY",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ucJoSC29UL8",
+      "title": "https://www.youtube.com/watch?v=ucJoSC29UL8",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t55__eGFd_s",
+      "title": "https://www.youtube.com/watch?v=t55__eGFd_s",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.cnet.com/pictures/hotmail-through-the-ages-images/",
+      "title": "https://www.cnet.com/pictures/hotmail-through-the-ages-images/",
+      "domain": "www.cnet.com",
+      "scraped": false
+    },
+    {
+      "url": "https://tr.wikipedia.org/wiki/Dosya:Windows-live-mail-windows-10.jpg",
+      "title": "https://tr.wikipedia.org/wiki/Dosya:Windows-live-mail-windows-10.jpg",
+      "domain": "tr.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=olTeUQbIjoU",
+      "title": "https://www.youtube.com/watch?v=olTeUQbIjoU",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles/commits/master/articles/xbox-360.Rmd.md",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles/commits/master/articles/xbox-360.Rmd.md",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles/issues/139",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles/issues/139",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles/pull/104",
+      "title": "https://github.com/flipacholas/Architecture-of-consoles/pull/104",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0F4P5RB25?binding=paperback",
+      "title": "here",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0B5VM3NHS",
+      "title": "Amazon Kindle",
+      "domain": "www.amazon.com",
+      "scraped": true
+    },
+    {
+      "url": "https://books.apple.com/us/author/rodrigo-copetti/id1632545359?see-all=books",
+      "title": "Apple Books",
+      "domain": "books.apple.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.kobo.com/us/en/search?query=Architecture+of+Consoles%3a+A+Practical+Analysis&fcsearchfield=Series&seriesId=7e46f843-4aee-53b4-97c2-82782e951af5",
+      "title": "Kobo",
+      "domain": "www.kobo.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "suggesting changes",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles",
+      "title": "adding translations",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PjVhXzDT8nI",
+      "title": "How to update any LiteOn to iXtreme LT+ 2.0 (phat xbox 360)",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JyYdL4L6vwE",
+      "title": "Reset glitch hack on slim by GliGli | homebrew-connection.org",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/DrSchottky/R-JTOP",
+      "title": "R-JTOP",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MeWGSF71Big",
+      "title": "RGH1.2 V2 on TRINITY SLIM XBOX 360!",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://github.com/X360Tools/NandChipEnableGlitch",
+      "title": "NandChipEnableGlitch",
+      "domain": "github.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20071024030506/http://www.microsoft.com/presspass/press/1999/Aug99/WM4Lnchpr.mspx",
+      "title": "Windows media technologies 4 delivers cutting-edge CD-quality audio on the internet",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/directshow/using-windows-media-in-directshow/",
+      "title": "Using windows media in DirectShow",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://web.archive.org/web/20120208052530/http://domino.research.ibm.com/comm/research.nsf/pages/r.arch.simd.html",
+      "title": "Using data-parallel SIMD architecture in video games and supercomputers",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/dxtecharts/coding-for-multiple-cores",
+      "title": "Coding for multicore on xbox 360 and windows",
+      "domain": "docs.microsoft.com",
+      "scraped": true
+    },
+    {
+      "url": "https://web.archive.org/web/20090202023827/http://www.ibm.com/developerworks/power/library/pa-fpfxbox/",
+      "title": "Just like being there: Papers from the fall processor forum 2005: Application-customized CPU design",
+      "domain": "web.archive.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uxjpmc8ZIxM",
+      "title": "The xbox 360 security system and its weaknesses",
+      "domain": "www.youtube.com",
+      "scraped": true
+    },
+    {
+      "url": "https://cpn-us-w2.wpmucdn.com/sites.gatech.edu/dist/e/466/files/2012/09/mpglecture18f11_archcomp_4up.pdf",
+      "title": "Architectural comparison: Xbox 360 vs. Playstation 3",
+      "domain": "cpn-us-w2.wpmucdn.com",
+      "scraped": false
+    },
+    {
+      "url": "https://iis-people.ee.ethz.ch/~gmichi/asocd/addinfo/Out-of-Order_execution.pdf",
+      "title": "Out-of-order execution",
+      "domain": "iis-people.ee.ethz.ch",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1647",
+      "title": "Understanding the cell microprocessor",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.anandtech.com/show/1910/4",
+      "title": "Intel’s pentium extreme edition 955: 65nm, 4 threads and 376M transistors",
+      "domain": "www.anandtech.com",
+      "scraped": true
+    },
+    {
+      "url": "https://www.extremetech.com/extreme/75294-intels-pentium-d-price-half-that-of-amds-x2",
+      "title": "Intel’s pentium d price half that of AMD’s X2",
+      "domain": "www.extremetech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203938%28v=xnagamestudio.41%29",
+      "title": "Xbox 360 programming considerations",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb203912%28v=xnagamestudio.41%29",
+      "title": ".NET compact framework for xbox 360",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/libxenon",
+      "title": "LibXenon",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.eurogamer.net/digitalfoundry-1gb-360-disc-upgrade",
+      "title": "Source: Xbox new disc format gains 1GB",
+      "domain": "www.eurogamer.net",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NrvCTPRFN98",
+      "title": "Xbox live marketplace (peter moore’s demonstration)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VKy9OrCtpyk",
+      "title": "Dashboard: Xbox 360 fall update walkthrough",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bYSsYLDMARc",
+      "title": "I bought an xbox 360 HD DVD player from eBay... These still exist in 2019??",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_c9F6yXFpDo",
+      "title": "Xbox 360 HD-DVD drive review",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://gizmodo.com/microsoft-xbox-360-hd-dvd-player-officially-discontinue-360054",
+      "title": "Microsoft xbox 360 HD DVD player officially discontinued",
+      "domain": "gizmodo.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.anandtech.com/show/1062",
+      "title": "NVIDIA GeForce FX 5800 ultra: It’s here, but is it good?",
+      "domain": "www.anandtech.com",
+      "scraped": false
+    },
+    {
+      "url": "https://en.wikipedia.org/w/index.php?title=Xenos_%28graphics_chip%29&oldid=1067322126",
+      "title": "Xenos (graphics chip)",
+      "domain": "en.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.beyond3d.com/content/articles/4",
+      "title": "ATI xenos: Xbox 360 graphics demystified",
+      "domain": "www.beyond3d.com",
+      "scraped": false
+    },
+    {
+      "url": "http://www.khronos.org/opengl/wiki_opengl/index.php?title=History_of_OpenGL&oldid=14895",
+      "title": "History of OpenGL",
+      "domain": "www.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/win32/direct3d9/rendering-from-vertex-and-index-buffers",
+      "title": "Rendering from vertex and index buffers (Direct3D 9)",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb464139%28v=xnagamestudio.41%29",
+      "title": "Predicated tiling",
+      "domain": "docs.microsoft.com",
+      "scraped": false
+    },
+    {
+      "url": "https://registry.khronos.org/OpenGL/extensions/EXT/EXT_packed_float.txt",
+      "title": "EXT_packed_float",
+      "domain": "registry.khronos.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9J8QAoarIrE",
+      "title": "HIP16-TALK security offense and defense strategies",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KMYMp4tQd98",
+      "title": "Xbox 360 accesories - official microsoft 2006 promotional video",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/Free60Project/xell-reloaded/blob/1e2639c1050e74ab477aa190fb6a6f7ca93eec72/source/lv1/main.c",
+      "title": "lv1/main.c (xell reloaded)",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/TEIR1plus2/Xbox-Reversing",
+      "title": "Xbox-reversing",
+      "domain": "github.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1P5gTvXct30",
+      "title": "Xbox 360 blades dashboard (2.0.5766.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AZYhri2tsM4",
+      "title": "Xbox 360 original blades dashboard HD",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4Twtx8vC3fY",
+      "title": "Exploring the xbox 360 NXE dashboard in 2021!",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ucJoSC29UL8",
+      "title": "Xbox 360 NXE dashboard (2.0.8498.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t55__eGFd_s",
+      "title": "Xbox 360 kinect dashboard (2.0.13599.0)",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://www.cnet.com/pictures/hotmail-through-the-ages-images/",
+      "title": "Hotmail through the ages (images)",
+      "domain": "www.cnet.com",
+      "scraped": false
+    },
+    {
+      "url": "https://tr.wikipedia.org/wiki/Dosya:Windows-live-mail-windows-10.jpg",
+      "title": "Windows live mail screenshot",
+      "domain": "tr.wikipedia.org",
+      "scraped": false
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=olTeUQbIjoU",
+      "title": "Xbox 360 dashboard update 2012 tour",
+      "domain": "www.youtube.com",
+      "scraped": false
+    },
+    {
+      "url": "https://github.com/flipacholas/Architecture-of-consoles/commits/master/articles/xbox-360.Rmd.md",
+      "title": "commit log",
+      "domain": "github.com",
+      "scraped": false
+    }
+  ],
+  "console_links": [
+    {
+      "url": "https://classic.copetti.org/writings/consoles/xbox-360",
+      "title": "switch to the ‘classic’ edition",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/xbox-360",
+      "title": "Supporting imagery",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/playstation-3",
+      "title": "my previous article about the PS3",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/xbox",
+      "title": "original Xbox",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/playstation-2",
+      "title": "Emotion Engine",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/gamecube",
+      "title": "undone",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/playstation",
+      "title": "hazard",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/nintendo-64",
+      "title": "Nintendo 64",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/playstation-vita",
+      "title": "Cortex-A9",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/wiiu",
+      "title": "Wii U",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/wii",
+      "title": "Wii",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/playstation-portable",
+      "title": "Graphics Engine",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/nes",
+      "title": "same word",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/dreamcast",
+      "title": "Dreamcast",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/nintendo-ds",
+      "title": "FIFO command buffer",
+      "scraped": true
+    },
+    {
+      "url": "https://www.copetti.org/writings/consoles/super-nintendo",
+      "title": "again",
+      "scraped": true
+    }
+  ],
+  "pages_by_category": {
+    "main": [
+      {
+        "title": "Xbox 360 Architecture | A Practical Analysis",
+        "word_count": 29732
+      }
+    ],
+    "references": [
+      {
+        "title": "GitHub - flipacholas/Architecture-of-consoles: Technical articles about console architecture",
+        "word_count": 1293
+      },
+      {
+        "title": "Architecture of Consoles: A practical analysis (3 book series) Paperback Edition",
+        "word_count": 3573
+      },
+      {
+        "title": "Architecture of Consoles: A practical analysis (single article) (22 book series) Kindle Edition",
+        "word_count": 7038
+      },
+      {
+        "title": "Rodrigo Copetti - Books",
+        "word_count": 939
+      },
+      {
+        "title": "\"Architecture of Consoles: A Practical Analysis\" | eBooks and Audiobooks Search Results | Rakuten Kobo United States",
+        "word_count": 3967
+      },
+      {
+        "title": "YouTube",
+        "word_count": 131
+      },
+      {
+        "title": "Reset Glitch Hack on Slim By GliGli | Homebrew-Connection.org - YouTube",
+        "word_count": 775
+      },
+      {
+        "title": "GitHub - DrSchottky/R-JTOP: Open source implementation of CB fusecheck glitch",
+        "word_count": 1049
+      },
+      {
+        "title": "First RGH1.2 V2 on Trinity Slim Xbox 360! - YouTube",
+        "word_count": 714
+      },
+      {
+        "title": "GitHub - X360Tools/NandChipEnableGlitch",
+        "word_count": 1375
+      },
+      {
+        "title": "Using Windows Media in DirectShow - Win32 apps | Microsoft Learn",
+        "word_count": 1451
+      },
+      {
+        "title": "IBM Research | IBM Research | Using data-parallel SIMD architecture in video games and supercomputers",
+        "word_count": 2512
+      },
+      {
+        "title": "Coding for multicore on Xbox 360 and Windows - Win32 apps | Microsoft Learn",
+        "word_count": 5582
+      },
+      {
+        "title": "Just like being there:  Papers from the Fall Processor Forum 2005: Application-customized CPU design",
+        "word_count": 3798
+      },
+      {
+        "title": "The Xbox 360 Security System and its Weaknesses - YouTube",
+        "word_count": 1388
+      },
+      {
+        "title": "404 Not Found",
+        "word_count": 22
+      },
+      {
+        "title": "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "word_count": 2416
+      },
+      {
+        "title": "AnandTech Forums: Technology, Hardware, Software, and Deals",
+        "word_count": 2405
+      }
+    ],
+    "consoles": [
+      {
+        "title": "Xbox 360 Architecture | A Practical Analysis",
+        "word_count": 29356
+      },
+      {
+        "title": "Xbox 360 Architecture | A Practical Analysis",
+        "word_count": 29732
+      },
+      {
+        "title": "PlayStation 3 Architecture | A Practical Analysis",
+        "word_count": 22119
+      },
+      {
+        "title": "Xbox Architecture | A Practical Analysis",
+        "word_count": 9760
+      },
+      {
+        "title": "PlayStation 2 Architecture | A Practical Analysis",
+        "word_count": 11247
+      },
+      {
+        "title": "GameCube Architecture | A Practical Analysis",
+        "word_count": 9691
+      },
+      {
+        "title": "PlayStation Architecture | A Practical Analysis",
+        "word_count": 9059
+      },
+      {
+        "title": "Nintendo 64 Architecture | A Practical Analysis",
+        "word_count": 7817
+      },
+      {
+        "title": "PlayStation Vita Architecture (Part 1) | A Practical Analysis",
+        "word_count": 6116
+      },
+      {
+        "title": "Wii U Architecture | A Practical Analysis",
+        "word_count": 18872
+      },
+      {
+        "title": "Wii Architecture | A Practical Analysis",
+        "word_count": 7436
+      },
+      {
+        "title": "PlayStation Portable (PSP) Architecture | A Practical Analysis",
+        "word_count": 13217
+      },
+      {
+        "title": "NES / Famicom Architecture | A Practical Analysis",
+        "word_count": 9942
+      },
+      {
+        "title": "Dreamcast Architecture | A Practical Analysis",
+        "word_count": 6150
+      },
+      {
+        "title": "Nintendo DS Architecture | A Practical Analysis",
+        "word_count": 10478
+      },
+      {
+        "title": "Super Nintendo / Famicom Architecture | A Practical Analysis",
+        "word_count": 8274
+      }
+    ]
+  }
+}
